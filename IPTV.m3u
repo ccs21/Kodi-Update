@@ -1,34 +1,12 @@
 #EXTM3U
-#EXTINF:-1, MBC(지상파/종편)
-http://175.198.55.161:8871/MBC_H
-#EXTINF:-1, KBS1(지상파/종편)
-http://175.198.55.161:8871/KBS1_H
-#EXTINF:-1, KBS2(지상파/종편)
-http://175.198.55.161:8871/KBS2_H
-#EXTINF:-1, SBS(지상파/종편)
-http://175.198.55.161:8871/SBS_H
-#EXTINF:-1, EBS(지상파/종편)
-http://175.198.55.161:8871/EBS_H
+#EXTINF:-1, FTV(낚시)
+rtmp://edge2.everyon.tv/etv2/phd12
 #EXTINF:-1, EBS2
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1, JTBC(지상파/종편)
-http://175.198.55.161:8871/JTBC_H
-#EXTINF:-1, MBN(지상파/종편)
-http://175.198.55.161:8871/MBN_H
-#EXTINF:-1, 채널A(지상파/종편)
-http://175.198.55.161:8871/CHANNELA_H
-#EXTINF:-1, TV조선(지상파/종편)
-http://175.198.55.161:8871/TVCHOSUN_H
-#EXTINF:-1, 연합뉴스(지상파/종편)
-http://175.198.55.161:8871/YTN_H
 #EXTINF:-1, YTN(지상파/종편)
 http://lgedge1.everyon.tv/lgetv1/phd1110/playlist.m3u8
-#EXTINF:-1, KBS 독도 라이브
-http://kbs-dokdo.gscdn.com/dokdo_800/_definst_/dokdo_800.stream/playlist.m3u8
 #EXTINF:-1, OBS(지상파/종편)
 http://edge2.everyon.tv/etv2sb/phd1042/chunklist_w312619350.m3u8
-#EXTINF:-1, SBSCNBC(지상파/종편)
-http://175.198.55.161:8871/CNBC_H
 #EXTINF:-1, EBSi
 http://1.214.67.28/vod/71401.m3u8
 #EXTINF:-1, EBS플러스2
@@ -39,18 +17,12 @@ http://1.214.67.28/vod/80101.m3u8
 http://edge2.everyon.tv:1935/etv2sb/phd707/HasBahCa.m3u8
 #EXTINF:-1, OGN(온게임넷)
 http://1.214.67.28/vod/68101.m3u8
-#EXTINF:-1, TVN
-http://175.198.55.161:8871/TVN_H
 #EXTINF:-1, ONSTYLE
 http://1.214.67.28/vod/77801.m3u8
 #EXTINF:-1, OLIVE
 http://1.214.67.28/vod/69601.m3u8
 #EXTINF:-1, XTM
 http://1.214.67.28/vod/67101.m3u8
-#EXTINF:-1, 슈퍼액션(영화/시리즈)
-http://175.198.55.161:8871/SUPERACTION_H
-#EXTINF:-1, OCN(영화/시리즈)
-http://175.198.55.161:8871/OCN_H
 #EXTINF:-1, PLAYY웰메이드(영화)
 http://edge2.everyon.tv:1935/etv2sb/phd770/HasBahCa.m3u8
 #EXTINF:-1, PLAYY프리미엄(영화)
@@ -63,26 +35,18 @@ http://1.214.67.28/vod/62101.m3u8
 http://1.214.67.28/vod/61201.m3u8
 #EXTINF:-1, 채널차이나(영화/드라마)
 rtmp://edge1.everyon.tv/etv1/phd1016
-#EXTINF:-1, 케이블TV VOD
-rtmp://edge1.everyon.tv/etv1/phd101
 #EXTINF:-1, 드라마방송(드라마)
 http://123.108.164.71/etv2/phd847/playlist.m3u8
 #EXTINF:-1, CHING(드라마)
 rtmp://edge1.everyon.tv:1935/etv1sb/phd7
-#EXTINF:-1, 아시아N(아시아드라마)
-http://edge2.everyon.tv/etv2/phd433/HasBahCa.m3u8
 #EXTINF:-1, MBC뮤직
 http://1.214.67.28/vod/62401.m3u8
-#EXTINF:-1, Mnet(음악)
-http://175.198.55.161:8871/MNET_H
 #EXTINF:-1, 아이넷 TV(성인가요)
 rtmp://edge2.everyon.tv/etv2sb/phd263
 #EXTINF:-1, 가요TV
 http://main1.everyon.tv:1935/etv1/_definst_/phd273/playlist.m3u8
 #EXTINF:-1, GMTV(가요)
 http://1.214.67.28/vod/68801.m3u8
-#EXTINF:-1, (음악)
-http://wshdl.load.cdn.zhanqi.tv/zqlive/1285_Zloy4.flv
 #EXTINF:-1, SBS펀
 http://1.214.67.28/vod/61501.m3u8
 #EXTINF:-1, O tvN(오락)
@@ -131,8 +95,6 @@ rtmp://123.108.164.71/etv2sb/phd863
 rtmp://edge1.everyon.tv/etv1/phd35
 #EXTINF:-1, TV IS
 http://111.118.21.79/etv1sb/phd551/playlist.m3u8
-#EXTINF:-1, FTV(낚시)
-rtmp://edge2.everyon.tv/etv2/phd12
 #EXTINF:-1, 폴라리스(여행)
 http://edge2.everyon.tv:1935/etv2sb/phd14/HasBahCa.m3u8
 #EXTINF:-1, ONT(레저/다큐)
@@ -147,16 +109,10 @@ http://edge2.everyon.tv/etv2/phd77/HasBahCa.m3u8
 http://edge2.everyon.tv/etv2/phd1046/HasBahCa.m3u8
 #EXTINF:-1, SPOTV(스포츠)
 http://1.214.67.28/vod/66701.m3u8
-#EXTINF:-1, MBC스포츠2(스포츠)
-http://175.198.55.161:8871/EBS1_H
 #EXTINF:-1, STN(축구)
 http://edge2.everyon.tv:1935/etv2sb/phd861/HasBahCa.m3u8
 #EXTINF:-1, M1글로벌(격투)
 rtmp://edge1.everyon.tv/etv1/phd1020
-#EXTINF:-1, SBS골프(스포츠)
-http://175.198.55.161:8871/SBSGOLF_H
-#EXTINF:-1, JTBC골프(스포츠)
-http://175.198.55.161:8871/JGOLF_H
 #EXTINF:-1, Billiards(스포츠)
 rtmp://edge1.everyon.tv:1935/etv1sb/phd191
 #EXTINF:-1, MANIA REPORT(스포츠)
@@ -191,8 +147,6 @@ rtmp://edge2.everyon.tv:80/etv2sb/phd42
 rtmp://edge1.everyon.tv/etv1sb/phd5
 #EXTINF:-1, 애니프렌즈(어린이)
 http://edge2.everyon.tv:1935/etv2sb/phd933/HasBahCa.m3u8
-#EXTINF:-1, JEI잉글리시(교육)
-http://175.198.55.161:8871/JEI_H
 #EXTINF:-1, 쉴라English DIAGRAM(영어)
 rtmp://edge1.everyon.tv:1935/etv1sb/phd1021
 #EXTINF:-1, CNN(영어)
@@ -235,7 +189,7 @@ http://edge2.everyon.tv:1935/etv2sb/phd851/HasBahCa.m3u8
 http://edge2.everyon.tv:1935/etv2sb/phd401/HasBahCa.m3u8
 #EXTINF:-1, 청소년영화제
 http://edge2.everyon.tv:1935/etv2sb/phd1025/HasBahCa.m3u8
-#EXTINF:-1,Trend
+#EXTINF:-1,Trendy
 http://123.108.164.71/etv2sb/pld4/lihattv.m3u8
 #EXTINF:-1, HCN(경북방송)
 rtmp://edge1.everyon.tv/etv1/phd778
