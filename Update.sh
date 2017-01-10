@@ -1,21 +1,45 @@
+clear
 cd ~
-echo "채널리스트를 불러옵니다."
+echo "Loading Channel List."
 echo ""
 sleep 1
 git clone https://github.com/ccs21/Kodi-Update.git
 sleep 5
 cd /home/pi/Kodi-Update
+echo "================================"
+echo "Load Complite."
+echo "================================"
 echo ""
-echo "불러오기 완료"
 echo ""
-echo "채널리스트를 업데이트 합니다."
+echo ""
+echo ""
+echo "================================"
+echo "Update Processing..."
+echo "================================"
 sleep 3
 sudo cp -f ./IPTV.m3u /home/pi/
 sleep 1
 echo ""
 echo ""
-echo "업데이트가 완료 되었습니다."
 echo ""
-echo "적용을 위해 자동으로 재부팅 됩니다."
+echo ""
+echo "================================"
+echo "Remove temp Files..."
+echo "================================"
+sudo rm -r -f /home/pi/Kodi-Update
+echo ""
+echo ""
+echo ""
+echo ""
+echo "================================"
+echo "Complite."
+echo "================================"
+echo ""
+echo ""
+echo ""
+echo ""
+echo "================================"
+echo "Reboot After 10s."
+echo "================================"
 sleep 10
-reboot
+sudo reboot
