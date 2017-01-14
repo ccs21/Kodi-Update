@@ -1,41 +1,41 @@
 #EXTM3U
-#EXTINF:-1, MBC(Áö»óÆÄ/Á¾Æí)
+#EXTINF:-1, MBC(ì§€ìƒíŒŒ/ì¢…í¸)
 http://198.144.156.93:9083/live/CA42-live1/PJ/Yr/PJYrrds4bTe69nKCwA_MAQ==/live.m3u8
-#EXTINF:-1, KBS1(Áö»óÆÄ/Á¾Æí)
+#EXTINF:-1, KBS1(ì§€ìƒíŒŒ/ì¢…í¸)
 http://199.21.149.42:9083/live/CA42-live1/4U/m7/4Um7jSUcj5yAeervICdrrA==/live.m3u8
-#EXTINF:-1, KBS2(Áö»óÆÄ/Á¾Æí)
+#EXTINF:-1, KBS2(ì§€ìƒíŒŒ/ì¢…í¸)
 http://199.21.149.43:9083/live/CA42-live1/cX/Iu/cXIuLIgTUuG1XxsBCHPF0A==/live.m3u8
-#EXTINF:-1, SBS(Áö»óÆÄ/Á¾Æí)
+#EXTINF:-1, SBS(ì§€ìƒíŒŒ/ì¢…í¸)
 http://199.21.149.43:9083/live/CA42-live1/Dw/Ck/DwCkM386I8UnkPlGBiC5kQ==/live.m3u8
-#EXTINF:-1, EBS(Áö»óÆÄ/Á¾Æí)
+#EXTINF:-1, EBS(ì§€ìƒíŒŒ/ì¢…í¸)
 http://110.10.122.42:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8?time=1454375113788
 #EXTINF:-1, EBS2
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1, JTBC(Áö»óÆÄ/Á¾Æí)
+#EXTINF:-1, JTBC(ì§€ìƒíŒŒ/ì¢…í¸)
 http://1.214.67.28/vod/74701.m3u8
-#EXTINF:-1, MBN(Áö»óÆÄ/Á¾Æí)
+#EXTINF:-1, MBN(ì§€ìƒíŒŒ/ì¢…í¸)
 http://1.214.67.28/vod/75001.m3u8
-#EXTINF:-1, Ã¤³ÎA(Áö»óÆÄ/Á¾Æí)
+#EXTINF:-1, ì±„ë„A(ì§€ìƒíŒŒ/ì¢…í¸)
 http://1.214.67.28/vod/74901.m3u8
-#EXTINF:-1, TVÁ¶¼±(Áö»óÆÄ/Á¾Æí)
+#EXTINF:-1, TVì¡°ì„ (ì§€ìƒíŒŒ/ì¢…í¸)
 http://1.214.67.28/vod/74601.m3u8
-#EXTINF:-1, ¿¬ÇÕ´º½º(Áö»óÆÄ/Á¾Æí)
+#EXTINF:-1, ì—°í•©ë‰´ìŠ¤(ì§€ìƒíŒŒ/ì¢…í¸)
 http://1.214.67.28/vod/73401.m3u8
-#EXTINF:-1, YTN(Áö»óÆÄ/Á¾Æí)
+#EXTINF:-1, YTN(ì§€ìƒíŒŒ/ì¢…í¸)
 http://lgedge1.everyon.tv/lgetv1/phd1110/playlist.m3u8
-#EXTINF:-1, KBS µ¶µµ ¶óÀÌºê
+#EXTINF:-1, KBS ë…ë„ ë¼ì´ë¸Œ
 http://kbs-dokdo.gscdn.com/dokdo_800/_definst_/dokdo_800.stream/playlist.m3u8
-#EXTINF:-1, OBS(Áö»óÆÄ/Á¾Æí)
+#EXTINF:-1, OBS(ì§€ìƒíŒŒ/ì¢…í¸)
 http://edge2.everyon.tv/etv2sb/phd1042/chunklist_w312619350.m3u8
 #EXTINF:-1, EBSi
 http://1.214.67.28/vod/71401.m3u8
-#EXTINF:-1, EBSÇÃ·¯½º2
+#EXTINF:-1, EBSí”ŒëŸ¬ìŠ¤2
 http://1.214.67.28/vod/71501.m3u8
 #EXTINF:-1, EBSe
 http://1.214.67.28/vod/80101.m3u8
-#EXTINF:-1, ·Ôµ¥È¨¼îÇÎ
+#EXTINF:-1, ë¡¯ë°í™ˆì‡¼í•‘
 http://edge2.everyon.tv:1935/etv2sb/phd707/HasBahCa.m3u8
-#EXTINF:-1, OGN(¿Â°ÔÀÓ³İ)
+#EXTINF:-1, OGN(ì˜¨ê²Œì„ë„·)
 http://1.214.67.28/vod/68101.m3u8
 #EXTINF:-1, TVN
 http://1.214.67.28/vod/68201.m3u8
@@ -45,279 +45,279 @@ http://1.214.67.28/vod/77801.m3u8
 http://1.214.67.28/vod/69601.m3u8
 #EXTINF:-1, XTM
 http://1.214.67.28/vod/67101.m3u8
-#EXTINF:-1, Ä³Ä¡¿ø
+#EXTINF:-1, ìºì¹˜ì˜¨
 http://198.144.156.90:9083/live/CA42-live1/MU/qZ/MUqZhJj6d7AVaVoxVAVuog==/live.m3u8
-#EXTINF:-1, OCN(¿µÈ­/½Ã¸®Áî)
+#EXTINF:-1, OCN(ì˜í™”/ì‹œë¦¬ì¦ˆ)
 http://199.21.149.41:9083/live/CA42-live1/_K/D2/_KD2CBjorpv-WJINk2GPqg==/live.m3u8
-#EXTINF:-1, PLAYYÀ£¸ŞÀÌµå(¿µÈ­)
+#EXTINF:-1, PLAYYì›°ë©”ì´ë“œ(ì˜í™”)
 http://edge2.everyon.tv:1935/etv2sb/phd770/HasBahCa.m3u8
-#EXTINF:-1, PLAYYÇÁ¸®¹Ì¾ö(¿µÈ­)
+#EXTINF:-1, PLAYYí”„ë¦¬ë¯¸ì—„(ì˜í™”)
 http://edge2.everyon.tv:1935/etv2sb/phd743/HasBahCa.m3u8
 #EXTINF:-1, THE MOVIE
 http://edge2.everyon.tv:1935/etv2sb/phd8/HasBahCa.m3u8
-#EXTINF:-1, MBCµå¶ó¸¶
+#EXTINF:-1, MBCë“œë¼ë§ˆ
 http://1.214.67.28/vod/62101.m3u8
-#EXTINF:-1, SBSÇÃ·¯½º
+#EXTINF:-1, SBSí”ŒëŸ¬ìŠ¤
 http://1.214.67.28/vod/61201.m3u8
-#EXTINF:-1, Ã¤³ÎÂ÷ÀÌ³ª(¿µÈ­/µå¶ó¸¶)
+#EXTINF:-1, ì±„ë„ì°¨ì´ë‚˜(ì˜í™”/ë“œë¼ë§ˆ)
 rtmp://edge1.everyon.tv/etv1/phd1016
-#EXTINF:-1, ÄÉÀÌºíTV VOD
+#EXTINF:-1, ì¼€ì´ë¸”TV VOD
 rtmp://edge1.everyon.tv/etv1/phd101
-#EXTINF:-1, µå¶ó¸¶¹æ¼Û(µå¶ó¸¶)
+#EXTINF:-1, ë“œë¼ë§ˆë°©ì†¡(ë“œë¼ë§ˆ)
 http://123.108.164.71/etv2/phd847/playlist.m3u8
-#EXTINF:-1, CHING(µå¶ó¸¶)
+#EXTINF:-1, CHING(ë“œë¼ë§ˆ)
 rtmp://edge1.everyon.tv:1935/etv1sb/phd7
-#EXTINF:-1, ¾Æ½Ã¾ÆN(¾Æ½Ã¾Æµå¶ó¸¶)
+#EXTINF:-1, ì•„ì‹œì•„N(ì•„ì‹œì•„ë“œë¼ë§ˆ)
 http://edge2.everyon.tv/etv2/phd433/HasBahCa.m3u8
-#EXTINF:-1, MBC¹ÂÁ÷
+#EXTINF:-1, MBCë®¤ì§
 http://1.214.67.28/vod/62401.m3u8
-#EXTINF:-1, Mnet(À½¾Ç)
+#EXTINF:-1, Mnet(ìŒì•…)
 ttp://1.214.67.28/vod/68704.m3u8
-#EXTINF:-1, ¾ÆÀÌ³İ TV(¼ºÀÎ°¡¿ä)
+#EXTINF:-1, ì•„ì´ë„· TV(ì„±ì¸ê°€ìš”)
 rtmp://edge2.everyon.tv/etv2sb/phd263
-#EXTINF:-1, °¡¿äTV
+#EXTINF:-1, ê°€ìš”TV
 http://main1.everyon.tv:1935/etv1/_definst_/phd273/playlist.m3u8
-#EXTINF:-1, GMTV(°¡¿ä)
+#EXTINF:-1, GMTV(ê°€ìš”)
 http://1.214.67.28/vod/68801.m3u8
-#EXTINF:-1, SBSÆİ
+#EXTINF:-1, SBSí€
 http://1.214.67.28/vod/61501.m3u8
-#EXTINF:-1, O tvN(¿À¶ô)
+#EXTINF:-1, O tvN(ì˜¤ë½)
 http://121.156.62.136:1935/chc09/s5.stream/playlist.m3u8
-#EXTINF:-1, MBCEVERYONE(¿¬¿¹)
+#EXTINF:-1, MBCEVERYONE(ì—°ì˜ˆ)
 http://1.214.67.28/vod/62601.m3u8
-#EXTINF:-1, ETN (¿¬¿¹Àü¹®Ã¤³Î)
+#EXTINF:-1, ETN (ì—°ì˜ˆì „ë¬¸ì±„ë„)
 http://123.108.164.71/etv2sb/phd2/playlist.m3u8
-#EXTINF:-1, C`TIME(¿¹´É)
+#EXTINF:-1, C`TIME(ì˜ˆëŠ¥)
 http://edge2.everyon.tv:1935/etv2sb/phd21/HasBahCa.m3u8
-#EXTINF:-1, ·±´×¸Ç¸ğÀ½(¿¹´É)
+#EXTINF:-1, ëŸ°ë‹ë§¨ëª¨ìŒ(ì˜ˆëŠ¥)
 http://dlhls.cdn.zhanqi.tv/zqlive/34822_KA3zE.m3u8
-#EXTINF:-1, Ã¤³ÎAÇÃ·¯½º(¿¬¿¹)
+#EXTINF:-1, ì±„ë„Aí”ŒëŸ¬ìŠ¤(ì—°ì˜ˆ)
 http://edge2.everyon.tv:1935/etv2sb/phd409/HasBahCa.m3u8
-#EXTINF:-1, ¿¡ÀÌÇÎÅ©´º½º(¿¬¿¹)
+#EXTINF:-1, ì—ì´í•‘í¬ë‰´ìŠ¤(ì—°ì˜ˆ)
 http://edge2.everyon.tv:1935/etv2sb/phd984/HasBahCa.m3u8
-#EXTINF:-1, CMCTV(¿À¶ôÃ¤³Î)
+#EXTINF:-1, CMCTV(ì˜¤ë½ì±„ë„)
 rtmp://edge1.everyon.tv:1935/etv1sb/phd1
-#EXTINF:-1, TRENDY TV(¿¹´É)
+#EXTINF:-1, TRENDY TV(ì˜ˆëŠ¥)
 http://123.108.164.71/etv2sb/phd4/playlist.m3u8
-#EXTINF:-1, ÅÚ·¹³ëº§¶ó(¿¹´É)
+#EXTINF:-1, í…”ë ˆë…¸ë²¨ë¼(ì˜ˆëŠ¥)
 rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld319
 #EXTINF:-1, KBS World
 rtmp://118.97.183.196/jhos//kbs
-#EXTINF:-1, µ¿¾ÆTV
+#EXTINF:-1, ë™ì•„TV
 http://123.108.164.71/etv2sb/phd43/playlist.m3u8
-#EXTINF:-1, ¸®¾óTV
+#EXTINF:-1, ë¦¬ì–¼TV
 rtmp://123.108.164.71/etv2sb/phd1065
-#EXTINF:-1, ¿§Áö TV
+#EXTINF:-1, ì—£ì§€ TV
 http://lgedge1.everyon.tv/lgetv1/phd1122/playlist.m3u8
-#EXTINF:-1, OBS W(´ÙÅ¥)
+#EXTINF:-1, OBS W(ë‹¤í)
 http://111.118.21.79/etv1sb/phd3/playlist.m3u8
-#EXTINF:-1, ¸¶¿îÆ¾TV
+#EXTINF:-1, ë§ˆìš´í‹´TV
 http://123.108.164.71/etv2sb/phd337/playlist.m3u8
 #EXTINF:-1, Food TV
 http://edge1.everyon.tv/etv1sb/phd1015/playlist.m3u8
-#EXTINF:-1, ÄíÅ°°Ç°­TV
+#EXTINF:-1, ì¿ í‚¤ê±´ê°•TV
 rtmp://edge2.everyon.tv/etv2/phd24
-#EXTINF:-1, ·¹½ÃÇÇ ÄÚ¸®¾Æ(¿ä¸®)
+#EXTINF:-1, ë ˆì‹œí”¼ ì½”ë¦¬ì•„(ìš”ë¦¬)
 http://edge2.everyon.tv:1935/etv2sb/phd1053/HasBahCa.m3u8
-#EXTINF:-1, ¾Æ¸®¶ûTV(±Û·Î¹ú)
+#EXTINF:-1, ì•„ë¦¬ë‘TV(ê¸€ë¡œë²Œ)
 http://amdlive.ctnd.com.edgesuite.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1, YTN science(°úÇĞ)
+#EXTINF:-1, YTN science(ê³¼í•™)
 rtmp://123.108.164.71/etv2sb/phd863
-#EXTINF:-1, ARTE¾Æ¸£¶¼(¹®È­¿¹¼ú)
+#EXTINF:-1, ARTEì•„ë¥´ë–¼(ë¬¸í™”ì˜ˆìˆ )
 rtmp://edge1.everyon.tv/etv1/phd35
 #EXTINF:-1, TV IS
 http://111.118.21.79/etv1sb/phd551/playlist.m3u8
-#EXTINF:-1, FTV(³¬½Ã)
+#EXTINF:-1, FTV(ë‚šì‹œ)
 rtmp://edge2.everyon.tv/etv2/phd12
-#EXTINF:-1, Æú¶ó¸®½º(¿©Çà)
+#EXTINF:-1, í´ë¼ë¦¬ìŠ¤(ì—¬í–‰)
 http://edge2.everyon.tv:1935/etv2sb/phd14/HasBahCa.m3u8
-#EXTINF:-1, ONT(·¹Àú/´ÙÅ¥)
+#EXTINF:-1, ONT(ë ˆì €/ë‹¤í)
 http://edge2.everyon.tv:1935/etv2sb/phd30/HasBahCa.m3u8
-#EXTINF:-1, ¸®ºù TV(·¹Àú)
+#EXTINF:-1, ë¦¬ë¹™ TV(ë ˆì €)
 http://edge2.everyon.tv:1935/etv2sb/phd13/HasBahCa.m3u8
 #EXTINF:-1, EVENT TV
 http://123.108.164.71/etv2sb/phd389/playlist.m3u8
-#EXTINF:-1, ¼ÒºñÀÚTV(»ıÈ°Á¤º¸)
+#EXTINF:-1, ì†Œë¹„ìTV(ìƒí™œì •ë³´)
 http://edge2.everyon.tv/etv2/phd77/HasBahCa.m3u8
-#EXTINF:-1, ´ëÇÑ¹Î±¹ Å¬¸° ÄÜÅÙÃ÷
+#EXTINF:-1, ëŒ€í•œë¯¼êµ­ í´ë¦° ì½˜í…ì¸ 
 http://edge2.everyon.tv/etv2/phd1046/HasBahCa.m3u8
-#EXTINF:-1, SPOTV(½ºÆ÷Ã÷)
+#EXTINF:-1, SPOTV(ìŠ¤í¬ì¸ )
 http://1.214.67.28/vod/66701.m3u8
-#EXTINF:-1, MBC½ºÆ÷Ã÷2(½ºÆ÷Ã÷)
+#EXTINF:-1, MBCìŠ¤í¬ì¸ 2(ìŠ¤í¬ì¸ )
 http://175.198.55.161:8871/EBS1_H
-#EXTINF:-1, STN(Ãà±¸)
+#EXTINF:-1, STN(ì¶•êµ¬)
 http://edge2.everyon.tv:1935/etv2sb/phd861/HasBahCa.m3u8
-#EXTINF:-1, M1±Û·Î¹ú(°İÅõ)
+#EXTINF:-1, M1ê¸€ë¡œë²Œ(ê²©íˆ¬)
 rtmp://edge1.everyon.tv/etv1/phd1020
-#EXTINF:-1, SBS°ñÇÁ(½ºÆ÷Ã÷)
+#EXTINF:-1, SBSê³¨í”„(ìŠ¤í¬ì¸ )
 http://175.198.55.161:8871/SBSGOLF_H
-#EXTINF:-1, JTBC°ñÇÁ(½ºÆ÷Ã÷)
+#EXTINF:-1, JTBCê³¨í”„(ìŠ¤í¬ì¸ )
 http://199.21.149.43:9083/live/CA42-live1/wE/Fq/wEFql88XpyKlYxu2FzAY-w==/live.m3u8
-#EXTINF:-1, Billiards(½ºÆ÷Ã÷)
+#EXTINF:-1, Billiards(ìŠ¤í¬ì¸ )
 rtmp://edge1.everyon.tv:1935/etv1sb/phd191
-#EXTINF:-1, MANIA REPORT(½ºÆ÷Ã÷)
+#EXTINF:-1, MANIA REPORT(ìŠ¤í¬ì¸ )
 http://edge2.everyon.tv:1935/etv2sb/phd741/HasBahCa.m3u8
-#EXTINF:-1, »ıÈ°Ã¼À°TV(½ºÆ÷Ã÷)
+#EXTINF:-1, ìƒí™œì²´ìœ¡TV(ìŠ¤í¬ì¸ )
 rtmp://edge2.everyon.tv/etv2/phd253
-#EXTINF:-1, K¹ÙµÏ(¹ÙµÏ)
+#EXTINF:-1, Kë°”ë‘‘(ë°”ë‘‘)
 rtmp://edge1.everyon.tv/etv1/phd207
-#EXTINF:-1, ÇÑ±¹¹ÙµÏ
+#EXTINF:-1, í•œêµ­ë°”ë‘‘
 http://1.214.67.28/vod/68301.m3u8
-#EXTINF:-1, ºê·¹ÀÎTV(Àå±â/Ã¼½º)
+#EXTINF:-1, ë¸Œë ˆì¸TV(ì¥ê¸°/ì²´ìŠ¤)
 rtmp://edge1.everyon.tv:1935/etv1sb/phd381
-#EXTINF:-1, YTN Weather(³¯¾¾)
+#EXTINF:-1, YTN Weather(ë‚ ì”¨)
 http://123.108.164.71/etv2sb/phd193/playlist.m3u8
-#EXTINF:-1, Kweather(³¯¾¾)
+#EXTINF:-1, Kweather(ë‚ ì”¨)
 http://edge2.everyon.tv:1935/etv2sb/phd581/HasBahCa.m3u8
-#EXTINF:-1, È¯°æTV(È¯°æ)
+#EXTINF:-1, í™˜ê²½TV(í™˜ê²½)
 rtmp://edge1.everyon.tv/etv1/phd195
-#EXTINF:-1, KTV(°ø°ø)
+#EXTINF:-1, KTV(ê³µê³µ)
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
-#EXTINF:-1, HPBS¿©·Ğ¹æ¼Û(°ø°ø)
+#EXTINF:-1, HPBSì—¬ë¡ ë°©ì†¡(ê³µê³µ)
 http://123.108.164.71/etv2/phd983/playlist.m3u8
-#EXTINF:-1, ¾Ö´Ï ÇÃ·¯½º(¾Ö´Ï)
+#EXTINF:-1, ì• ë‹ˆ í”ŒëŸ¬ìŠ¤(ì• ë‹ˆ)
 http://1.214.67.28/vod/69901.m3u8
-#EXTINF:-1, KIDS TV(¾î¸°ÀÌ)
+#EXTINF:-1, KIDS TV(ì–´ë¦°ì´)
 http://123.108.164.71/etv2/phd1043/playlist.m3u8
-#EXTINF:-1, KIDS1(¾î¸°ÀÌ)
+#EXTINF:-1, KIDS1(ì–´ë¦°ì´)
 http://1.214.67.28/vod/72801.m3u8
-#EXTINF:-1, Kids channel(À°¾Æ¹æ¼Û)
+#EXTINF:-1, Kids channel(ìœ¡ì•„ë°©ì†¡)
 rtmp://edge2.everyon.tv:80/etv2sb/phd42
-#EXTINF:-1, ´ë±³¾î¸°ÀÌ(¾î¸°ÀÌ)
+#EXTINF:-1, ëŒ€êµì–´ë¦°ì´(ì–´ë¦°ì´)
 rtmp://edge1.everyon.tv/etv1sb/phd5
-#EXTINF:-1, ¾Ö´ÏÇÁ·»Áî(¾î¸°ÀÌ)
+#EXTINF:-1, ì• ë‹ˆí”„ë Œì¦ˆ(ì–´ë¦°ì´)
 http://edge2.everyon.tv:1935/etv2sb/phd933/HasBahCa.m3u8
-#EXTINF:-1, JEIÀ×±Û¸®½Ã(±³À°)
+#EXTINF:-1, JEIì‰ê¸€ë¦¬ì‹œ(êµìœ¡)
 http://175.198.55.161:8871/JEI_H
-#EXTINF:-1, ½¯¶óEnglish DIAGRAM(¿µ¾î)
+#EXTINF:-1, ì‰´ë¼English DIAGRAM(ì˜ì–´)
 rtmp://edge1.everyon.tv:1935/etv1sb/phd1021
-#EXTINF:-1, CNN(¿µ¾î)
+#EXTINF:-1, CNN(ì˜ì–´)
 http://1.214.67.28/vod/72901.m3u8
-#EXTINF:-1, Åä¸¶ÅäTV(Áõ±Ç)
+#EXTINF:-1, í† ë§ˆí† TV(ì¦ê¶Œ)
 rtmp://edge1.everyon.tv/etv1sb/phd25
-#EXTINF:-1, ÀÌµ¥ÀÏ¸® TV(°æÁ¦)
+#EXTINF:-1, ì´ë°ì¼ë¦¬ TV(ê²½ì œ)
 http://edge2.everyon.tv:1935/etv2sb/phd23/HasBahCa.m3u8
-#EXTINF:-1, ÇÑ±¹°æÁ¦(°æÁ¦)
+#EXTINF:-1, í•œêµ­ê²½ì œ(ê²½ì œ)
 rtmp://edge2.everyon.tv/etv2sb/phd26
-#EXTINF:-1, ¸ÅÀÏ°æÁ¦TV(°æÁ¦)
+#EXTINF:-1, ë§¤ì¼ê²½ì œTV(ê²½ì œ)
 rtmp://edge1.everyon.tv:1935/etv1sb/phd563
-#EXTINF:-1, ¸Ó´ÏÅõµ¥ÀÌ(°æÁ¦)
+#EXTINF:-1, ë¨¸ë‹ˆíˆ¬ë°ì´(ê²½ì œ)
 http://111.118.21.79/etv1sb/phd18/playlist.m3u8
-#EXTINF:-1, ºÎµ¿»êTV
+#EXTINF:-1, ë¶€ë™ì‚°TV
 http://111.118.21.79/etv1sb/phd19/playlist.m3u8
-#EXTINF:-1, ¾Æ½Ã¾Æ°æÁ¦
+#EXTINF:-1, ì•„ì‹œì•„ê²½ì œ
 http://111.118.21.79/etv1sb/phd385/playlist.m3u8
-#EXTINF:-1, ³»¿Ü°æÁ¦TV(°æÁ¦)
+#EXTINF:-1, ë‚´ì™¸ê²½ì œTV(ê²½ì œ)
 rtmp://edge2.everyon.tv/etv2sb/phd639
-#EXTINF:-1, ¼­¿ï°æÁ¦TV
+#EXTINF:-1, ì„œìš¸ê²½ì œTV
 rtmp://edge2.everyon.tv/etv2sb/phd22
-#EXTINF:-1, ¹ı·ü¹æ¼Û(ºÎµ¿»ê/¹ı·ü)
+#EXTINF:-1, ë²•ë¥ ë°©ì†¡(ë¶€ë™ì‚°/ë²•ë¥ )
 rtmp://edge1.everyon.tv/etv1/phd33
-#EXTINF:-1, ¸ÅÀÏ°æÁ¦ ÇÑ¹æ°Ç°­TV
+#EXTINF:-1, ë§¤ì¼ê²½ì œ í•œë°©ê±´ê°•TV
 rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld725
-#EXTINF:-1, KCTV(Á¦ÁÖ)
+#EXTINF:-1, KCTV(ì œì£¼)
 http://122.202.129.136:1935/live/ch5/playlist.m3u8
-#EXTINF:-1, KCTV DV(±¤ÁÖ)
+#EXTINF:-1, KCTV DV(ê´‘ì£¼)
 http://111.118.21.79/etv1/phd555/playlist.m3u8
-#EXTINF:-1, KCTV N(Á¦ÁÖÁ¤º¸)
+#EXTINF:-1, KCTV N(ì œì£¼ì •ë³´)
 http://122.202.129.136:1935/live/ch4/playlist.m3u8
-#EXTINF:-1, tbs(°øÀÍ)
+#EXTINF:-1, tbs(ê³µìµ)
 http://123.108.164.71/etv2sb/phd40/playlist.m3u8
-#EXTINF:-1, WTB ¿øÁÖ¹æ¼Û(°ø°ø)
+#EXTINF:-1, WTB ì›ì£¼ë°©ì†¡(ê³µê³µ)
 rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld755
-#EXTINF:-1, ±¹¸³°ø¿ø¹æ¼Û(°ø°ø)
+#EXTINF:-1, êµ­ë¦½ê³µì›ë°©ì†¡(ê³µê³µ)
 http://edge2.everyon.tv:1935/etv2sb/phd851/HasBahCa.m3u8
-#EXTINF:-1, ±¹È¸¹æ¼Û
+#EXTINF:-1, êµ­íšŒë°©ì†¡
 http://edge2.everyon.tv:1935/etv2sb/phd401/HasBahCa.m3u8
-#EXTINF:-1, CBS(Á¾±³)
+#EXTINF:-1, CBS(ì¢…êµ)
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
-#EXTINF:-1, GOODTV(Á¾±³)
+#EXTINF:-1, GOODTV(ì¢…êµ)
 http://123.108.164.71/etv2sb/phd29/playlist.m3u8
-#EXTINF:-1, CTS(Á¾±³)
+#EXTINF:-1, CTS(ì¢…êµ)
 http://111.118.21.79/etv1/phd28/playlist.m3u8
-#EXTINF:-1, CÃ¤³Î(Á¾±³)
+#EXTINF:-1, Cì±„ë„(ì¢…êµ)
 rtmp://edge1.everyon.tv/etv1/phd335
-#EXTINF:-1, CGNTV(Á¾±³)
+#EXTINF:-1, CGNTV(ì¢…êµ)
 rtmp://edge2.everyon.tv/etv2/phd235
-#EXTINF:-1, ÇÑ¿ì¸®(Á¾±³)
+#EXTINF:-1, í•œìš°ë¦¬(ì¢…êµ)
 rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld897
-#EXTINF:-1, amcTV(Á¾±³)
+#EXTINF:-1, amcTV(ì¢…êµ)
 http://edge2.everyon.tv/etv2/phd873/HasBahCa.m3u8
-#EXTINF:-1, BBS(Á¾±³)
+#EXTINF:-1, BBS(ì¢…êµ)
 rtmp://edge1.everyon.tv/etv1/phd553
-#EXTINF:-1, BTNTV(Á¾±³)
+#EXTINF:-1, BTNTV(ì¢…êµ)
 http://edge2.everyon.tv/etv2/phd34/HasBahCa.m3u8
-#EXTINF:-1, STB»ó»ı¹æ¼Û(Á¾±³)
+#EXTINF:-1, STBìƒìƒë°©ì†¡(ì¢…êµ)
 http://edge2.everyon.tv:1935/etv2sb/phd38/HasBahCa.m3u8
-#EXTINF:-1, Ã»¼Ò³â¿µÈ­Á¦
+#EXTINF:-1, ì²­ì†Œë…„ì˜í™”ì œ
 http://edge2.everyon.tv:1935/etv2sb/phd1025/HasBahCa.m3u8
 #EXTINF:-1,Trend
 http://123.108.164.71/etv2sb/pld4/lihattv.m3u8
-#EXTINF:-1, HCN(°æºÏ¹æ¼Û)
+#EXTINF:-1, HCN(ê²½ë¶ë°©ì†¡)
 rtmp://edge1.everyon.tv/etv1/phd778
-#EXTINF:-1, ¾Æ¸®¶û¶óµğ¿À¹æ¼Û
+#EXTINF:-1, ì•„ë¦¬ë‘ë¼ë””ì˜¤ë°©ì†¡
 http://edge2.everyon.tv/etv2/phd1019/HasBahCa.m3u8
-#EXTINF:-1, ·¯ºê¹ß¶óµå(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, ëŸ¬ë¸Œë°œë¼ë“œ(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd295/HasBahCa.m3u8
-#EXTINF:-1, Ãß¾ïÀÇ¸í°î(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, ì¶”ì–µì˜ëª…ê³¡(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd299/HasBahCa.m3u8
-#EXTINF:-1, Å¬·´´í½º¹ÂÁ÷(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, í´ëŸ½ëŒ„ìŠ¤ë®¤ì§(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd365/HasBahCa.m3u8
-#EXTINF:-1, ºí·Ï¹ö½ºÅÍÆË(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, ë¸”ë¡ë²„ìŠ¤í„°íŒ(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd667/HasBahCa.m3u8
-#EXTINF:-1, °ñµçÆË½º´ÙÀÌ¾ó(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, ê³¨ë“ íŒìŠ¤ë‹¤ì´ì–¼(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd669/HasBahCa.m3u8
-#EXTINF:-1, ´Ù¹®È­À½¾Ç(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, ë‹¤ë¬¸í™”ìŒì•…(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd671/HasBahCa.m3u8
-#EXTINF:-1, ±è±â´öÀÇ°ñµçÆË(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, ê¹€ê¸°ë•ì˜ê³¨ë“ íŒ(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd673/HasBahCa.m3u8
-#EXTINF:-1, ¶ô&ÇÏµåÄÚ¾î(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, ë½&í•˜ë“œì½”ì–´(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd675/HasBahCa.m3u8
-#EXTINF:-1, ¿µÈ­À½¾Ç½Ç(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, ì˜í™”ìŒì•…ì‹¤(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd677/HasBahCa.m3u8
-#EXTINF:-1, ÃÖ½ÅÈ÷Æ®°¡¿ä(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, ìµœì‹ íˆíŠ¸ê°€ìš”(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd685/HasBahCa.m3u8
-#EXTINF:-1, ÆÄÆ¼¶ó¿îÁö(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, íŒŒí‹°ë¼ìš´ì§€(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd701/HasBahCa.m3u8
-#EXTINF:-1, ¿Àµğ¼Ç½ºÅ¸(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, ì˜¤ë””ì…˜ìŠ¤íƒ€(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd297/HasBahCa.m3u8
-#EXTINF:-1, ¿¥³İÀÎ±âÂ÷Æ®(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, ì— ë„·ì¸ê¸°ì°¨íŠ¸(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd357/HasBahCa.m3u8
-#EXTINF:-1, ±¹¾ÇÇÑ¸¶´ç(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, êµ­ì•…í•œë§ˆë‹¹(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd363/HasBahCa.m3u8
-#EXTINF:-1, Æ®·ÎÆ®°¡¿ä¹«´ë(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, íŠ¸ë¡œíŠ¸ê°€ìš”ë¬´ëŒ€(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd665/HasBahCa.m3u8
-#EXTINF:-1, È÷Æ®70-80(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, íˆíŠ¸70-80(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd683/HasBahCa.m3u8
-#EXTINF:-1, È÷Æ®80-90(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, íˆíŠ¸80-90(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd679/HasBahCa.m3u8
-#EXTINF:-1, È÷Æ®90-00(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, íˆíŠ¸90-00(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd681/HasBahCa.m3u8
-#EXTINF:-1, ÁÖºÎ¾ÖÃ¢°¡¿ä(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, ì£¼ë¶€ì• ì°½ê°€ìš”(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd697/HasBahCa.m3u8
-#EXTINF:-1, ¿Àµğ¿ÀºÏÃ¤³Î(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, ì˜¤ë””ì˜¤ë¶ì±„ë„(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd705/HasBahCa.m3u8
-#EXTINF:-1, TBS 95.1(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, TBS 95.1(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd856/HasBahCa.m3u8
-#EXTINF:-1, TBS 101.3(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, TBS 101.3(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd857/HasBahCa.m3u8
-#EXTINF:-1, ÀçÁî½ºÅ×ÀÌ¼Ç(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, ì¬ì¦ˆìŠ¤í…Œì´ì…˜(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd359/HasBahCa.m3u8
-#EXTINF:-1, È¨Å¬·¡½Ä(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, í™ˆí´ë˜ì‹(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd361/HasBahCa.m3u8
-#EXTINF:-1, ±¹¾ÇÇÑ¸¶´ç(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, êµ­ì•…í•œë§ˆë‹¹(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd695/HasBahCa.m3u8
-#EXTINF:-1, ¾ö¸¶¶ûEQµ¿¿ä(¿Àµğ¾îÃ¤³Î)
+#EXTINF:-1, ì—„ë§ˆë‘EQë™ìš”(ì˜¤ë””ì–´ì±„ë„)
 http://edge2.everyon.tv/etv2/phd703/HasBahCa.m3u8
-#EXTINF:-1, ÀçÆÒ½ºÅ×ÀÌ¼Ç(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, ì¬íŒ¬ìŠ¤í…Œì´ì…˜(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd687/HasBahCa.m3u8
-#EXTINF:-1, °¡Åç¸¯À½¾Ç(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, ê°€í†¨ë¦­ìŒì•…(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd689/HasBahCa.m3u8
-#EXTINF:-1, ÇìºìÅÍÄ¡CCM(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, í—¤ë¸í„°ì¹˜CCM(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd437/HasBahCa.m3u8
-#EXTINF:-1, Å©¸®½ºÂùÀ½¾Ç(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, í¬ë¦¬ìŠ¤ì°¬ìŒì•…(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd691/HasBahCa.m3u8
-#EXTINF:-1, ºÒ±³À½¾Ç(¿Àµğ¿ÀÃ¤³Î)
+#EXTINF:-1, ë¶ˆêµìŒì•…(ì˜¤ë””ì˜¤ì±„ë„)
 http://edge2.everyon.tv/etv2/phd693/HasBahCa.m3u8
 #EXTINF:-1, PLAYBOY(19+++)
 http://123.108.164.110/etv1sb/phd10497/playlist.m3u8
