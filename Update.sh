@@ -51,7 +51,7 @@ echo "================================"
 echo "Reboot After 5s."
 echo "================================"
 sleep 5
-Clear
+clear
 echo ""
 echo ""
 echo ""
