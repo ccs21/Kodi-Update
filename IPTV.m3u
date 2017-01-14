@@ -1,217 +1,367 @@
 #EXTM3U
-#EXTINF:-1, FTV(≥¨Ω√)
-rtmp://edge2.everyon.tv/etv2/phd12
-#EXTINF:-1, EBS2
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1, YTN(¡ˆªÛ∆ƒ/¡æ∆Ì)
-http://lgedge1.everyon.tv/lgetv1/phd1110/playlist.m3u8
-#EXTINF:-1, OBS(¡ˆªÛ∆ƒ/¡æ∆Ì)
-http://edge2.everyon.tv/etv2sb/phd1042/chunklist_w312619350.m3u8
-#EXTINF:-1, EBSi
-http://1.214.67.28/vod/71401.m3u8
-#EXTINF:-1, EBS«√∑ØΩ∫2
-http://1.214.67.28/vod/71501.m3u8
-#EXTINF:-1, EBSe
-http://1.214.67.28/vod/80101.m3u8
-#EXTINF:-1, ∑‘µ•»®ºÓ«Œ
-http://edge2.everyon.tv:1935/etv2sb/phd707/HasBahCa.m3u8
-#EXTINF:-1, OGN(ø¬∞‘¿”≥›)
-http://1.214.67.28/vod/68101.m3u8
-#EXTINF:-1, ONSTYLE
-http://1.214.67.28/vod/77801.m3u8
-#EXTINF:-1, OLIVE
-http://1.214.67.28/vod/69601.m3u8
-#EXTINF:-1, XTM
-http://1.214.67.28/vod/67101.m3u8
-#EXTINF:-1, PLAYY¿£∏ﬁ¿ÃµÂ(øµ»≠)
-http://edge2.everyon.tv:1935/etv2sb/phd770/HasBahCa.m3u8
-#EXTINF:-1, PLAYY«¡∏ÆπÃæˆ(øµ»≠)
-http://edge2.everyon.tv:1935/etv2sb/phd743/HasBahCa.m3u8
-#EXTINF:-1, THE MOVIE
-http://edge2.everyon.tv:1935/etv2sb/phd8/HasBahCa.m3u8
-#EXTINF:-1, MBCµÂ∂Û∏∂
-http://1.214.67.28/vod/62101.m3u8
-#EXTINF:-1, SBS«√∑ØΩ∫
-http://1.214.67.28/vod/61201.m3u8
-#EXTINF:-1, √§≥Œ¬˜¿Ã≥™(øµ»≠/µÂ∂Û∏∂)
-rtmp://edge1.everyon.tv/etv1/phd1016
-#EXTINF:-1, µÂ∂Û∏∂πÊº€(µÂ∂Û∏∂)
-http://123.108.164.71/etv2/phd847/playlist.m3u8
-#EXTINF:-1, CHING(µÂ∂Û∏∂)
-rtmp://edge1.everyon.tv:1935/etv1sb/phd7
-#EXTINF:-1, MBCπ¬¡˜
-http://1.214.67.28/vod/62401.m3u8
-#EXTINF:-1, æ∆¿Ã≥› TV(º∫¿Œ∞°ø‰)
-rtmp://edge2.everyon.tv/etv2sb/phd263
-#EXTINF:-1, ∞°ø‰TV
-http://main1.everyon.tv:1935/etv1/_definst_/phd273/playlist.m3u8
-#EXTINF:-1, GMTV(∞°ø‰)
-http://1.214.67.28/vod/68801.m3u8
-#EXTINF:-1, SBS∆›
-http://1.214.67.28/vod/61501.m3u8
-#EXTINF:-1, O tvN(ø¿∂Ù)
-http://121.156.62.136:1935/chc09/s5.stream/playlist.m3u8
-#EXTINF:-1, MBCEVERYONE(ø¨øπ)
-http://1.214.67.28/vod/62601.m3u8
-#EXTINF:-1, ETN (ø¨øπ¿¸πÆ√§≥Œ)
-http://123.108.164.71/etv2sb/phd2/playlist.m3u8
-#EXTINF:-1, C`TIME(øπ¥…)
-http://edge2.everyon.tv:1935/etv2sb/phd21/HasBahCa.m3u8
-#EXTINF:-1, ∑±¥◊∏«∏¿Ω(øπ¥…)
-http://dlhls.cdn.zhanqi.tv/zqlive/34822_KA3zE.m3u8
-#EXTINF:-1, √§≥ŒA«√∑ØΩ∫(ø¨øπ)
-http://edge2.everyon.tv:1935/etv2sb/phd409/HasBahCa.m3u8
-#EXTINF:-1, ø°¿Ã«Œ≈©¥∫Ω∫(ø¨øπ)
-http://edge2.everyon.tv:1935/etv2sb/phd984/HasBahCa.m3u8
-#EXTINF:-1, CMCTV(ø¿∂Ù√§≥Œ)
-rtmp://edge1.everyon.tv:1935/etv1sb/phd1
-#EXTINF:-1, TRENDY TV(øπ¥…)
-http://123.108.164.71/etv2sb/phd4/playlist.m3u8
-#EXTINF:-1, ≈⁄∑π≥Î∫ß∂Û(øπ¥…)
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld319
-#EXTINF:-1, KBS World
-rtmp://118.97.183.196/jhos//kbs
-#EXTINF:-1, µøæ∆TV
-http://123.108.164.71/etv2sb/phd43/playlist.m3u8
-#EXTINF:-1, ∏ÆæÛTV
-rtmp://123.108.164.71/etv2sb/phd1065
-#EXTINF:-1, øß¡ˆ TV
-http://lgedge1.everyon.tv/lgetv1/phd1122/playlist.m3u8
-#EXTINF:-1, OBS W(¥Ÿ≈•)
-http://111.118.21.79/etv1sb/phd3/playlist.m3u8
-#EXTINF:-1, ∏∂øÓ∆æTV
-http://123.108.164.71/etv2sb/phd337/playlist.m3u8
-#EXTINF:-1, Food TV
-http://edge1.everyon.tv/etv1sb/phd1015/playlist.m3u8
-#EXTINF:-1, ƒÌ≈∞∞«∞≠TV
-rtmp://edge2.everyon.tv/etv2/phd24
-#EXTINF:-1, ∑πΩ√«« ƒ⁄∏Ææ∆(ø‰∏Æ)
-http://edge2.everyon.tv:1935/etv2sb/phd1053/HasBahCa.m3u8
-#EXTINF:-1, æ∆∏Æ∂˚TV(±€∑Œπ˙)
-http://amdlive.ctnd.com.edgesuite.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1, YTN science(∞˙«–)
-rtmp://123.108.164.71/etv2sb/phd863
-#EXTINF:-1, ARTEæ∆∏£∂º(πÆ»≠øπº˙)
-rtmp://edge1.everyon.tv/etv1/phd35
-#EXTINF:-1, TV IS
-http://111.118.21.79/etv1sb/phd551/playlist.m3u8
-#EXTINF:-1, ∆˙∂Û∏ÆΩ∫(ø©«‡)
-http://edge2.everyon.tv:1935/etv2sb/phd14/HasBahCa.m3u8
-#EXTINF:-1, ONT(∑π¿˙/¥Ÿ≈•)
-http://edge2.everyon.tv:1935/etv2sb/phd30/HasBahCa.m3u8
-#EXTINF:-1, ∏Æ∫˘ TV(∑π¿˙)
-http://edge2.everyon.tv:1935/etv2sb/phd13/HasBahCa.m3u8
-#EXTINF:-1, EVENT TV
-http://123.108.164.71/etv2sb/phd389/playlist.m3u8
-#EXTINF:-1, º“∫Ò¿⁄TV(ª˝»∞¡§∫∏)
-http://edge2.everyon.tv/etv2/phd77/HasBahCa.m3u8
-#EXTINF:-1, ¥Î«—πŒ±π ≈¨∏∞ ƒ‹≈Ÿ√˜
-http://edge2.everyon.tv/etv2/phd1046/HasBahCa.m3u8
-#EXTINF:-1, SPOTV(Ω∫∆˜√˜)
-http://1.214.67.28/vod/66701.m3u8
-#EXTINF:-1, STN(√‡±∏)
-http://edge2.everyon.tv:1935/etv2sb/phd861/HasBahCa.m3u8
-#EXTINF:-1, M1±€∑Œπ˙(∞›≈ı)
-rtmp://edge1.everyon.tv/etv1/phd1020
-#EXTINF:-1, Billiards(Ω∫∆˜√˜)
-rtmp://edge1.everyon.tv:1935/etv1sb/phd191
-#EXTINF:-1, MANIA REPORT(Ω∫∆˜√˜)
-http://edge2.everyon.tv:1935/etv2sb/phd741/HasBahCa.m3u8
-#EXTINF:-1, ª˝»∞√º¿∞TV(Ω∫∆˜√˜)
-rtmp://edge2.everyon.tv/etv2/phd253
-#EXTINF:-1, KπŸµœ(πŸµœ)
-rtmp://edge1.everyon.tv/etv1/phd207
-#EXTINF:-1, «—±ππŸµœ
-http://1.214.67.28/vod/68301.m3u8
-#EXTINF:-1, ∫Í∑π¿ŒTV(¿Â±‚/√ºΩ∫)
-rtmp://edge1.everyon.tv:1935/etv1sb/phd381
-#EXTINF:-1, YTN Weather(≥Øææ)
-http://123.108.164.71/etv2sb/phd193/playlist.m3u8
-#EXTINF:-1, Kweather(≥Øææ)
-http://edge2.everyon.tv:1935/etv2sb/phd581/HasBahCa.m3u8
-#EXTINF:-1, »Ø∞ÊTV(»Ø∞Ê)
-rtmp://edge1.everyon.tv/etv1/phd195
-#EXTINF:-1, KTV(∞¯∞¯)
-http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
-#EXTINF:-1, HPBSø©∑–πÊº€(∞¯∞¯)
-http://123.108.164.71/etv2/phd983/playlist.m3u8
-#EXTINF:-1, æ÷¥œ «√∑ØΩ∫(æ÷¥œ)
-http://1.214.67.28/vod/69901.m3u8
-#EXTINF:-1, KIDS TV(æÓ∏∞¿Ã)
-http://123.108.164.71/etv2/phd1043/playlist.m3u8
-#EXTINF:-1, KIDS1(æÓ∏∞¿Ã)
-http://1.214.67.28/vod/72801.m3u8
-#EXTINF:-1, Kids channel(¿∞æ∆πÊº€)
-rtmp://edge2.everyon.tv:80/etv2sb/phd42
-#EXTINF:-1, ¥Î±≥æÓ∏∞¿Ã(æÓ∏∞¿Ã)
-rtmp://edge1.everyon.tv/etv1sb/phd5
-#EXTINF:-1, æ÷¥œ«¡∑ª¡Ó(æÓ∏∞¿Ã)
-http://edge2.everyon.tv:1935/etv2sb/phd933/HasBahCa.m3u8
-#EXTINF:-1, ΩØ∂ÛEnglish DIAGRAM(øµæÓ)
-rtmp://edge1.everyon.tv:1935/etv1sb/phd1021
-#EXTINF:-1, CNN(øµæÓ)
-http://1.214.67.28/vod/72901.m3u8
-#EXTINF:-1, ≈‰∏∂≈‰TV(¡ı±«)
-rtmp://edge1.everyon.tv/etv1sb/phd25
-#EXTINF:-1, ¿Ãµ•¿œ∏Æ TV(∞Ê¡¶)
-http://edge2.everyon.tv:1935/etv2sb/phd23/HasBahCa.m3u8
-#EXTINF:-1, «—±π∞Ê¡¶(∞Ê¡¶)
-rtmp://edge2.everyon.tv/etv2sb/phd26
-#EXTINF:-1, ∏≈¿œ∞Ê¡¶TV(∞Ê¡¶)
-rtmp://edge1.everyon.tv:1935/etv1sb/phd563
-#EXTINF:-1, ∏”¥œ≈ıµ•¿Ã(∞Ê¡¶)
-http://111.118.21.79/etv1sb/phd18/playlist.m3u8
-#EXTINF:-1, ∫ŒµøªÍTV
-http://111.118.21.79/etv1sb/phd19/playlist.m3u8
-#EXTINF:-1, æ∆Ω√æ∆∞Ê¡¶
-http://111.118.21.79/etv1sb/phd385/playlist.m3u8
-#EXTINF:-1, ≥ªø‹∞Ê¡¶TV(∞Ê¡¶)
-rtmp://edge2.everyon.tv/etv2sb/phd639
-#EXTINF:-1, º≠øÔ∞Ê¡¶TV
-rtmp://edge2.everyon.tv/etv2sb/phd22
-#EXTINF:-1, π˝∑¸πÊº€(∫ŒµøªÍ/π˝∑¸)
-rtmp://edge1.everyon.tv/etv1/phd33
-#EXTINF:-1, ∏≈¿œ∞Ê¡¶ «—πÊ∞«∞≠TV
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld725
-#EXTINF:-1, KCTV(¡¶¡÷)
-http://122.202.129.136:1935/live/ch5/playlist.m3u8
-#EXTINF:-1, KCTV DV(±§¡÷)
-http://111.118.21.79/etv1/phd555/playlist.m3u8
-#EXTINF:-1, KCTV N(¡¶¡÷¡§∫∏)
-http://122.202.129.136:1935/live/ch4/playlist.m3u8
-#EXTINF:-1, tbs(∞¯¿Õ)
-http://123.108.164.71/etv2sb/phd40/playlist.m3u8
-#EXTINF:-1, WTB ø¯¡÷πÊº€(∞¯∞¯)
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld755
-#EXTINF:-1, ±π∏≥∞¯ø¯πÊº€(∞¯∞¯)
-http://edge2.everyon.tv:1935/etv2sb/phd851/HasBahCa.m3u8
-#EXTINF:-1, ±π»∏πÊº€
-http://edge2.everyon.tv:1935/etv2sb/phd401/HasBahCa.m3u8
-#EXTINF:-1, √ªº“≥‚øµ»≠¡¶
-http://edge2.everyon.tv:1935/etv2sb/phd1025/HasBahCa.m3u8
-#EXTINF:-1,Trendy
-http://123.108.164.71/etv2sb/pld4/lihattv.m3u8
-#EXTINF:-1, HCN(∞Ê∫œπÊº€)
-rtmp://edge1.everyon.tv/etv1/phd778
-#EXTINF:-1, PLAYBOY(19+++)
-http://123.108.164.110/etv1sb/phd10497/playlist.m3u8
-#EXTINF:-1, VIKI(19+++)
-http://123.108.164.110/etv1sb/phd10765/playlist.m3u8
-#EXTINF:-1, MIDNIGHT(19+++)
-http://123.108.164.110/etv1sb/phd10766/playlist.m3u8
-#EXTINF:-1, HONEYS(19+++)
-http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
-#EXTINF:-1, penthouse(19+++)
-http://123.108.164.110/etv1sb/phd10927/playlist.m3u8
-#EXTINF:-1, BUTGO(19+++)
-http://edge2.everyon.tv:1935/etv2sb/phd10772/playlist.m3u8
-#EXTINF:-1, THEYAHAM(19+++)
-http://edge2.everyon.tv:1935/etv2sb/phd10771/playlist.m3u8
-#EXTINF:-1, PLAYY(19+++)
-http://edge2.everyon.tv:1935/etv2sb/phd10769/playlist.m3u8
-#EXTINF:-1,GIRLSTV(19+++)
-http://edge2.everyon.tv:1935/etv2sb/phd10501/playlist.m3u8
-#EXTINF:-1, SPICETV(19+++)
-http://edge2.everyon.tv:1935/etv2sb/phd10499/playlist.m3u8
-#EXTINF:-1, TVJAPAN(19+++)
-http://edge2.everyon.tv:1935/etv2sb/phd10062/playlist.m3u8
+#EXTINF:-1 tvg-id="123" tvg-logo="http://static.skylife.co.kr/upload/channel/201609/logo_mbcevery1.png" tvh-chnum="1" tvh-tags="",MBC Every1
+rtp://233.14.173.165:5000
+#EXTINF:-1 tvg-id="40" tvg-logo="" tvh-chnum="4" tvh-tags="",CJÏò§ÏáºÌïë
+rtp://233.18.158.75:5000
+#EXTINF:-1 tvg-id="164" tvg-logo="http://static.skylife.co.kr/upload/channel/201511/logo_sbs.png" tvh-chnum="5" tvh-tags="",SBS
+rtp://233.15.200.56:5000
+#EXTINF:-1 tvg-id="144" tvg-logo="" tvh-chnum="6" tvh-tags="",NSÌôàÏáºÌïë
+rtp://233.18.158.79:5000
+#EXTINF:-1 tvg-id="111" tvg-logo="http://static.skylife.co.kr/upload/channel/201511/logo_kbs_1.png" tvh-chnum="7" tvh-tags="",KBS2
+rtp://233.15.200.52:5000
+#EXTINF:-1 tvg-id="85" tvg-logo="" tvh-chnum="8" tvh-tags="",GS SHOP
+rtp://233.18.158.62:5000
+#EXTINF:-1 tvg-id="110" tvg-logo="http://static.skylife.co.kr/upload/channel/201511/logo_kbs_1.png" tvh-chnum="9" tvh-tags="",KBS1
+rtp://233.15.200.19:5000
+#EXTINF:-1 tvg-id="312" tvg-logo="" tvh-chnum="10" tvh-tags="",ÌòÑÎåÄÌôàÏáºÌïë
+rtp://233.18.158.70:5000
+#EXTINF:-1 tvg-id="122" tvg-logo="http://static.skylife.co.kr/upload/channel/201511/logo_mbc.png" tvh-chnum="11" tvh-tags="",MBC
+rtp://233.15.200.21:5000
+#EXTINF:-1 tvg-id="238" tvg-logo="" tvh-chnum="12" tvh-tags="",Î°ØÎç∞ÌôàÏáºÌïë
+rtp://233.18.158.80:5000
+#EXTINF:-1 tvg-id="60" tvg-logo="http://static.skylife.co.kr/upload/channel/201511/logo_ebs.png" tvh-chnum="13" tvh-tags="",EBS
+rtp://233.15.200.53:5000
+#EXTINF:-1 tvg-id="314" tvg-logo="" tvh-chnum="14" tvh-tags="",Ìôà&ÏáºÌïë
+rtp://233.15.200.137:5000
+#EXTINF:-1 tvg-id="97" tvg-logo="http://static.skylife.co.kr/upload/channel/201511/logo_jtbc.png" tvh-chnum="15" tvh-tags="",JTBC
+rtp://233.15.200.147:5000
+#EXTINF:-1 tvg-id="129" tvg-logo="http://static.skylife.co.kr/upload/channel/201511/logo_mbn.png" tvh-chnum="16" tvh-tags="",MBN
+rtp://233.15.200.149:5000
+#EXTINF:-1 tvg-id="207" tvg-logo="http://static.skylife.co.kr/upload/channel/201511/logo_tvn.png" tvh-chnum="17" tvh-tags="",tvN
+rtp://233.14.173.161:5000
+#EXTINF:-1 tvg-id="281" tvg-logo="http://static.skylife.co.kr/upload/channel/201511/logo_channela.png" tvh-chnum="18" tvh-tags="",Ï±ÑÎÑêA
+rtp://233.15.200.120:5000
+#EXTINF:-1 tvg-id="281" tvg-logo="http://static.skylife.co.kr/upload/channel/201511/logo_channela.png" tvh-chnum="18" tvh-tags="",Ï±ÑÎÑêA
+rtp://233.15.200.146:5000
+#EXTINF:-1 tvg-id="208" tvg-logo="http://static.skylife.co.kr/upload/channel/201511/logo_tvchosun.png" tvh-chnum="19" tvh-tags="",TVÏ°∞ÏÑ†
+rtp://233.15.200.148:5000
+#EXTINF:-1 tvg-id="119" tvg-logo="" tvh-chnum="20" tvh-tags="",KÏáºÌïë
+rtp://233.15.200.244:5000
+#EXTINF:-1 tvg-id="268" tvg-logo="http://static.skylife.co.kr/upload/channel/201503/channel_logo_573.gif" tvh-chnum="23" tvh-tags="",Ïó∞Ìï©Îâ¥Ïä§TV
+rtp://233.15.200.150:5000
+#EXTINF:-1 tvg-id="218" tvg-logo="http://static.skylife.co.kr/upload/channel/201511/logo_ytn.png" tvh-chnum="24" tvh-tags="",YTN
+rtp://233.18.158.78:5000
+#EXTINF:-1 tvg-id="121" tvg-logo="http://static.skylife.co.kr/upload/channelimage/201308/channel_logo_27.gif" tvh-chnum="27" tvh-tags="",Mnet
+rtp://233.14.173.162:5000
+#EXTINF:-1 tvg-id="260" tvg-logo="" tvh-chnum="28" tvh-tags="",Ïã†ÏÑ∏Í≥ÑÏáºÌïë
+rtp://233.18.158.83:5000
+#EXTINF:-1 tvg-id="258" tvg-logo="" tvh-chnum="31" tvh-tags="",ÏáºÌïëÏóîT
+rtp://233.15.200.92:5000
+#EXTINF:-1 tvg-id="313" tvg-logo="" tvh-chnum="33" tvh-tags="",ÌòÑÎåÄÌôàÏáºÌïë+ÏÉµ
+rtp://233.18.158.29:5000
+#EXTINF:-1 tvg-id="148" tvg-logo="http://static.skylife.co.kr/upload/channel/201410/channel_logo_15.gif.gif" tvh-chnum="34" tvh-tags="",Ïò¨Î¶¨Î∏å
+rtp://233.14.173.173:5000
+#EXTINF:-1 tvg-id="213" tvg-logo="" tvh-chnum="36" tvh-tags="",W ÏáºÌïë
+rtp://233.15.200.212:5000
+#EXTINF:-1 tvg-id="84" tvg-logo="" tvh-chnum="38" tvh-tags="",GS MY SHOP
+rtp://233.18.158.16:5000
+#EXTINF:-1 tvg-id="11" tvg-logo="" tvh-chnum="40" tvh-tags="",B Shopping
+rtp://233.15.200.110:5000
+#EXTINF:-1 tvg-id="143" tvg-logo="" tvh-chnum="42" tvh-tags="",NS Shop+
+rtp://233.13.231.201:5000
+#EXTINF:-1 tvg-id="143" tvg-logo="" tvh-chnum="42" tvh-tags="",NS Shop+
+rtp://233.15.200.214:5000
+#EXTINF:-1 tvg-id="237" tvg-logo="" tvh-chnum="44" tvh-tags="",Î°ØÎç∞ÏõêÌã∞ÎπÑ
+rtp://233.15.200.247:5000
+#EXTINF:-1 tvg-id="147" tvg-logo="http://static.skylife.co.kr/upload/channel/201510/channel_logo_106.jpg" tvh-chnum="45" tvh-tags="",O tvN
+rtp://233.14.173.172:5000
+#EXTINF:-1 tvg-id="183" tvg-logo="http://static.skylife.co.kr/upload/channel/201511/logo_spotv.PNG" tvh-chnum="51" tvh-tags="",SPOTV
+rtp://233.14.173.166:5000
+#EXTINF:-1 tvg-id="178" tvg-logo="http://static.skylife.co.kr/upload/channel/201603/logo_skysports_3.png" tvh-chnum="54" tvh-tags="",SkySports
+rtp://233.14.173.163:5000
+#EXTINF:-1 tvg-id="169" tvg-logo="http://static.skylife.co.kr/upload/channel/201312/1388464329273.png" tvh-chnum="58" tvh-tags="",SBS Sports
+rtp://233.14.173.169:5000
+#EXTINF:-1 tvg-id="107" tvg-logo="http://static.skylife.co.kr/upload/channel/201604/logo_kbsnsports.png" tvh-chnum="59" tvh-tags="",KBS N Sports
+rtp://233.14.173.170:5000
+#EXTINF:-1 tvg-id="126" tvg-logo="http://static.skylife.co.kr/upload/channel/201603/logo_mbcsportsplus.png" tvh-chnum="62" tvh-tags="",MBC SPORT+
+rtp://233.14.173.171:5000
+#EXTINF:-1 tvg-id="117" tvg-logo="" tvh-chnum="64" tvh-tags="",KTV
+rtp://233.15.200.128:5000
+#EXTINF:-1 tvg-id="223" tvg-logo="" tvh-chnum="65" tvh-tags="",Íµ≠ÌöåÎ∞©ÏÜ°
+rtp://233.18.158.55:5000
+#EXTINF:-1 tvg-id="48" tvg-logo="" tvh-chnum="68" tvh-tags="",CNTV
+rtp://233.18.158.72:5000
+#EXTINF:-1 tvg-id="79" tvg-logo="" tvh-chnum="71" tvh-tags="",FUN TV
+rtp://233.13.231.125:5000
+#EXTINF:-1 tvg-id="86" tvg-logo="" tvh-chnum="73" tvh-tags="",GTV
+rtp://233.15.200.112:5000
+#EXTINF:-1 tvg-id="216" tvg-logo="http://static.skylife.co.kr/upload/channelimage/201308/channel_logo_388.gif" tvh-chnum="76" tvh-tags="",XTM
+rtp://233.14.173.164:5000
+#EXTINF:-1 tvg-id="154" tvg-logo="http://static.skylife.co.kr/upload/channel/201605/logo_onstyle.png" tvh-chnum="77" tvh-tags="",Ïò®Ïä§ÌÉÄÏùº
+rtp://233.14.173.174:5000
+#EXTINF:-1 tvg-id="150" tvg-logo="" tvh-chnum="81" tvh-tags="",HD OBS W
+rtp://233.18.158.81:5000
+#EXTINF:-1 tvg-id="174" tvg-logo="http://static.skylife.co.kr/upload/channel/201603/logo_skyent_2.png" tvh-chnum="86" tvh-tags="",SkyENT
+rtp://233.18.158.23:5000
+#EXTINF:-1 tvg-id="6" tvg-logo="333" tvh-chnum="91" tvh-tags="",ÏòàÏà† TVÏïÑÎ•¥Îñº
+rtp://233.15.200.127:5000
+#EXTINF:-1 tvg-id="197" tvg-logo="" tvh-chnum="94" tvh-tags="",tag TV
+rtp://233.15.200.213:5000
+#EXTINF:-1 tvg-id="61" tvg-logo="http://static.skylife.co.kr/upload/channelimage/201308/channel_logo_777.gif" tvh-chnum="95" tvh-tags="",EBS2
+rtp://233.13.231.155:5000
+#EXTINF:-1 tvg-id="124" tvg-logo="" tvh-chnum="97" tvh-tags="",MBC MUSIC
+rtp://233.14.173.176:5000
+#EXTINF:-1 tvg-id="180" tvg-logo="" tvh-chnum="100" tvh-tags="",UHD ONE
+rtp://233.13.231.30:5000
+#EXTINF:-1 tvg-id="74" tvg-logo="http://static.skylife.co.kr/upload/channel/201511/logo_fox.png" tvh-chnum="107" tvh-tags="",FOX
+rtp://233.15.200.106:5000
+#EXTINF:-1 tvg-id="8" tvg-logo="" tvh-chnum="111" tvh-tags="",AsiaN
+rtp://233.18.158.65:5000
+#EXTINF:-1 tvg-id="87" tvg-logo="http://static.skylife.co.kr/upload/channel/201410/channel_logo_915.jpg" tvh-chnum="112" tvh-tags="",ÌûàÏñ¥Î°úÏï°ÏÖò
+rtp://233.13.231.81:5000
+#EXTINF:-1 tvg-id="199" tvg-logo="http://static.skylife.co.kr/upload/channel/201511/logo_telenovela.png" tvh-chnum="114" tvh-tags="",ÌÖîÎ†àÎÖ∏Î≤®Îùº
+rtp://233.15.200.122:5000
+#EXTINF:-1 tvg-id="78" tvg-logo="" tvh-chnum="118" tvh-tags="",FTV
+rtp://233.14.173.179:5000
+#EXTINF:-1 tvg-id="245" tvg-logo="http://static.skylife.co.kr/upload/channel/201605/logo_BadukTV_1.png" tvh-chnum="120" tvh-tags="",Î∞îÎëëTV
+rtp://233.14.173.181:5000
+#EXTINF:-1 tvg-id="251" tvg-logo="" tvh-chnum="122" tvh-tags="",Î∏åÎ†àÏù∏TV
+rtp://233.13.231.82:5000
+#EXTINF:-1 tvg-id="153" tvg-logo="http://static.skylife.co.kr/upload/channel/201605/logo_OGN.png" tvh-chnum="123" tvh-tags="",OGN
+rtp://233.14.173.190:5000
+#EXTINF:-1 tvg-id="184" tvg-logo="" tvh-chnum="124" tvh-tags="",SPOTV Games
+rtp://233.15.200.93:5000
+#EXTINF:-1 tvg-id="43" tvg-logo="" tvh-chnum="126" tvh-tags="",CMCÍ∞ÄÏ°±Ïò§ÎùΩTV
+rtp://233.15.200.113:5000
+#EXTINF:-1 tvg-id="142" tvg-logo="http://static.skylife.co.kr/upload/channel/201504/channel_logo_923.gif" tvh-chnum="128" tvh-tags="",ÎÜÄÌã∞ÎπÑ
+rtp://233.13.231.83:5000
+#EXTINF:-1 tvg-id="302" tvg-logo="" tvh-chnum="129" tvh-tags="",Ìè¥ÎùºÎ¶¨Ïä§TV
+rtp://233.15.200.77:5000
+#EXTINF:-1 tvg-id="235" tvg-logo="http://static.skylife.co.kr/upload/channel/201511/logo_disney.png" tvh-chnum="130" tvh-tags="",Disney Channel
+rtp://233.14.173.189:5000
+#EXTINF:-1 tvg-id="2" tvg-logo="http://static.skylife.co.kr/upload/channel/201508/channel_logo_740_1.jpg" tvh-chnum="135" tvh-tags="",Ïï†ÎãàÎ∞ïÏä§
+rtp://233.18.158.74:5000
+#EXTINF:-1 tvg-id="266" tvg-logo="http://static.skylife.co.kr/upload/channelimage/201308/channel_logo_ap.gif" tvh-chnum="138" tvh-tags="",Ïï†ÎãàÌîåÎü¨Ïä§
+rtp://233.14.173.178:5000
+#EXTINF:-1 tvg-id="250" tvg-logo="" tvh-chnum="139" tvh-tags="",Î∂ÄÎ©îÎûë
+rtp://233.13.231.184:5000
+#EXTINF:-1 tvg-id="96" tvg-logo="" tvh-chnum="142" tvh-tags="",JEI Ïû¨Îä•TV
+rtp://233.13.231.84:5000
+#EXTINF:-1 tvg-id="57" tvg-logo="http://static.skylife.co.kr/upload/channelimage/201308/channel_logo_777.gif" tvh-chnum="145" tvh-tags="",EBS u
+rtp://233.13.231.85:5000
+#EXTINF:-1 tvg-id="115" tvg-logo="" tvh-chnum="149" tvh-tags="",KIDS-TV
+rtp://233.18.158.87:5000
+#EXTINF:-1 tvg-id="95" tvg-logo="" tvh-chnum="154" tvh-tags="",JEI EnglishTV
+rtp://233.15.200.135:5000
+#EXTINF:-1 tvg-id="277" tvg-logo="" tvh-chnum="155" tvh-tags="",Ï†ïÏ≤†ÏòÅÏñ¥ TV
+rtp://233.15.200.139:5000
+#EXTINF:-1 tvg-id="58" tvg-logo="http://static.skylife.co.kr/upload/channelimage/201308/channel_logo_113.gif" tvh-chnum="157" tvh-tags="",EBS PLUS1
+rtp://233.15.200.215:5000
+#EXTINF:-1 tvg-id="59" tvg-logo="http://static.skylife.co.kr/upload/channelimage/201308/channel_logo_114.gif" tvh-chnum="158" tvh-tags="",EBS PLUS2
+rtp://233.13.231.219:5000
+#EXTINF:-1 tvg-id="63" tvg-logo="" tvh-chnum="159" tvh-tags="",edu TV
+rtp://233.15.200.216:5000
+#EXTINF:-1 tvg-id="1" tvg-logo="http://static.skylife.co.kr/upload/channel/201603/logo_9colors.png" tvh-chnum="163" tvh-tags="",9colors
+rtp://233.15.200.82:5000
+#EXTINF:-1 tvg-id="125" tvg-logo="http://static.skylife.co.kr/upload/channelimage/201308/channel_logo_764.gif" tvh-chnum="164" tvh-tags="",MBC NET
+rtp://233.13.231.106:5000
+#EXTINF:-1 tvg-id="315" tvg-logo="" tvh-chnum="166" tvh-tags="",ÌôòÍ≤ΩTV
+rtp://233.15.200.217:5000
+#EXTINF:-1 tvg-id="175" tvg-logo="http://static.skylife.co.kr/upload/channel/201603/logo_skyhealing_2.png" tvh-chnum="167" tvh-tags="",SkyÌûêÎßÅ
+rtp://233.15.200.115:5000
+#EXTINF:-1 tvg-id="138" tvg-logo="http://static.skylife.co.kr/upload/channel/201410/channel_logo_119.gif.gif" tvh-chnum="168" tvh-tags="",NGC
+rtp://233.18.158.125:5000
+#EXTINF:-1 tvg-id="15" tvg-logo="" tvh-chnum="172" tvh-tags="",BBC Earth
+rtp://233.13.231.195:5000
+#EXTINF:-1 tvg-id="181" tvg-logo="" tvh-chnum="174" tvh-tags="",Sky UHD
+rtp://233.13.231.18:5000
+#EXTINF:-1 tvg-id="219" tvg-logo="http://static.skylife.co.kr/upload/channel/201604/logo_ytnscience.png" tvh-chnum="175" tvh-tags="",YTN ÏÇ¨Ïù¥Ïñ∏Ïä§
+rtp://233.18.158.86:5000
+#EXTINF:-1 tvg-id="285" tvg-logo="" tvh-chnum="176" tvh-tags="",Ï±ÑÎÑêÎ∑∞
+rtp://233.15.200.136:5000
+#EXTINF:-1 tvg-id="242" tvg-logo="" tvh-chnum="181" tvh-tags="",Î®∏ÎãàÌà¨Îç∞Ïù¥Î∞©ÏÜ°
+rtp://233.18.158.92:5000
+#EXTINF:-1 tvg-id="272" tvg-logo="" tvh-chnum="183" tvh-tags="",Ïù¥Îç∞ÏùºÎ¶¨TV
+rtp://233.13.231.105:5000
+#EXTINF:-1 tvg-id="255" tvg-logo="" tvh-chnum="184" tvh-tags="",ÏÑúÏö∏Í≤ΩÏ†úTV
+rtp://233.13.231.90:5000
+#EXTINF:-1 tvg-id="264" tvg-logo="http://static.skylife.co.kr/upload/channel/201503/channel_logo_av.gif" tvh-chnum="186" tvh-tags="",ÏïÑÏãúÏïÑÍ≤ΩÏ†úTV
+rtp://233.18.158.82:5000
+#EXTINF:-1 tvg-id="248" tvg-logo="" tvh-chnum="187" tvh-tags="",Î∂ÄÎèôÏÇ∞TV
+rtp://233.18.158.93:5000
+#EXTINF:-1 tvg-id="249" tvg-logo="" tvh-chnum="188" tvh-tags="",Î∂ÄÎèôÏÇ∞ÌÜ†ÎßàÌÜ†
+rtp://233.15.200.126:5000
+#EXTINF:-1 tvg-id="46" tvg-logo="http://static.skylife.co.kr/upload/channelimage/201308/channel_logo_117.gif" tvh-chnum="191" tvh-tags="",CNN International
+rtp://233.14.173.188:5000
+#EXTINF:-1 tvg-id="205" tvg-logo="" tvh-chnum="198" tvh-tags="",TV5MONDE
+rtp://233.13.231.198:5000
+#EXTINF:-1 tvg-id="246" tvg-logo="" tvh-chnum="213" tvh-tags="",Î≤ïÎ•†Î∞©ÏÜ°
+rtp://233.13.231.108:5000
+#EXTINF:-1 tvg-id="198" tvg-logo="" tvh-chnum="214" tvh-tags="",tbsTV
+rtp://233.13.231.88:5000
+#EXTINF:-1 tvg-id="271" tvg-logo="" tvh-chnum="217" tvh-tags="",Ïú°ÏïÑÎ∞©ÏÜ°
+rtp://233.13.231.110:5000
+#EXTINF:-1 tvg-id="247" tvg-logo="" tvh-chnum="219" tvh-tags="",Î≥µÏßÄTV
+rtp://233.18.158.14:5000
+#EXTINF:-1 tvg-id="294" tvg-logo="" tvh-chnum="220" tvh-tags="",Ïø†ÌÇ§Í±¥Í∞ïTV
+rtp://233.13.231.111:5000
+#EXTINF:-1 tvg-id="19" tvg-logo="" tvh-chnum="232" tvh-tags="",BBSÎ∂àÍµêÎ∞©ÏÜ°
+rtp://233.13.231.91:5000
+#EXTINF:-1 tvg-id="23" tvg-logo="" tvh-chnum="233" tvh-tags="",BTNÎ∂àÍµêTV
+rtp://233.18.158.95:5000
+#EXTINF:-1 tvg-id="83" tvg-logo="" tvh-chnum="234" tvh-tags="",Good TV
+rtp://233.13.231.89:5000
+#EXTINF:-1 tvg-id="24" tvg-logo="" tvh-chnum="235" tvh-tags="",C channel
+rtp://233.15.200.95:5000
+#EXTINF:-1 tvg-id="49" tvg-logo="" tvh-chnum="236" tvh-tags="",CTSÍ∏∞ÎèÖÍµêTV
+rtp://233.18.158.96:5000
+#EXTINF:-1 tvg-id="32" tvg-logo="" tvh-chnum="237" tvh-tags="",CGNTV
+rtp://233.18.158.97:5000
+#EXTINF:-1 tvg-id="28" tvg-logo="" tvh-chnum="238" tvh-tags="",CBS
+rtp://233.13.231.92:5000
+#EXTINF:-1 tvg-id="284" tvg-logo="" tvh-chnum="250" tvh-tags="",Ï±ÑÎÑêi
+rtp://233.18.158.25:5000
+#EXTINF:-1 tvg-id="203" tvg-logo="" tvh-chnum="251" tvh-tags="",TRENDY
+rtp://233.15.200.116:5000
+#EXTINF:-1 tvg-id="307" tvg-logo="" tvh-chnum="252" tvh-tags="",ÌïúÍµ≠ÏßÅÏóÖÎ∞©ÏÜ°
+rtp://233.18.158.56:5000
+#EXTINF:-1 tvg-id="160" tvg-logo="" tvh-chnum="253" tvh-tags="",Î¶¨ÏñºTV
+rtp://233.15.200.117:5000
+#EXTINF:-1 tvg-id="257" tvg-logo="" tvh-chnum="255" tvh-tags="",ÏÜåÏÉÅÍ≥µÏù∏Î∞©ÏÜ°
+rtp://233.18.158.98:5000
+#EXTINF:-1 tvg-id="305" tvg-logo="" tvh-chnum="259" tvh-tags="",ÌïúÍµ≠ÏäπÎßàÎ∞©ÏÜ°
+rtp://233.15.200.103:5000
+#EXTINF:-1 tvg-id="193" tvg-logo="" tvh-chnum="261" tvh-tags="",STBÏÉÅÏÉùÎ∞©ÏÜ°
+rtp://233.18.158.99:5000
+#EXTINF:-1 tvg-id="44" tvg-logo="" tvh-chnum="262" tvh-tags="",CMTV
+rtp://233.15.200.94:5000
+#EXTINF:-1 tvg-id="273" tvg-logo="" tvh-chnum="263" tvh-tags="",Ïù¥Î≤§Ìä∏TV
+rtp://233.18.158.109:5000
+#EXTINF:-1 tvg-id="22" tvg-logo="" tvh-chnum="264" tvh-tags="",bookTV
+rtp://233.15.200.107:5000
+#EXTINF:-1 tvg-id="256" tvg-logo="" tvh-chnum="265" tvh-tags="",ÏÜåÎπÑÏûêTV
+rtp://233.13.231.183:5000
+#EXTINF:-1 tvg-id="262" tvg-logo="" tvh-chnum="266" tvh-tags="",Ïã§Î≤ÑÏïÑÏù¥TV
+rtp://233.13.231.129:5000
+#EXTINF:-1 tvg-id="194" tvg-logo="" tvh-chnum="267" tvh-tags="",STN
+rtp://233.13.231.114:5000
+#EXTINF:-1 tvg-id="282" tvg-logo="" tvh-chnum="268" tvh-tags="",Ï±ÑÎÑêA ÌîåÎü¨Ïä§
+rtp://233.15.200.219:5000
+#EXTINF:-1 tvg-id="310" tvg-logo="" tvh-chnum="269" tvh-tags="",ÌóùÍ∑∏Î¶¨Ïï±TV
+rtp://233.15.200.220:5000
+#EXTINF:-1 tvg-id="292" tvg-logo="" tvh-chnum="270" tvh-tags="",Ï∫†ÌçºÏä§TV
+rtp://233.15.200.221:5000
+#EXTINF:-1 tvg-id="239" tvg-logo="" tvh-chnum="276" tvh-tags="",Î¶¨ÎπôTV
+rtp://233.13.231.130:5000
+#EXTINF:-1 tvg-id="253" tvg-logo="" tvh-chnum="278" tvh-tags="",ÏÇ¨ÌöåÏïàÏ†ÑÎ∞©ÏÜ°
+rtp://233.18.158.35:5000
+#EXTINF:-1 tvg-id="279" tvg-logo="" tvh-chnum="279" tvh-tags="",JJCÏßÄÎ∞©ÏûêÏπòTV
+rtp://233.18.158.49:5000
+#EXTINF:-1 tvg-id="31" tvg-logo="" tvh-chnum="280" tvh-tags="",CCTV4
+rtp://233.13.231.199:5000
+#EXTINF:-1 tvg-id="106" tvg-logo="http://static.skylife.co.kr/upload/channel/201603/logo_kbsnlife.png" tvh-chnum="281" tvh-tags="",KBSN Life
+rtp://233.13.231.187:5000
+#EXTINF:-1 tvg-id="226" tvg-logo="" tvh-chnum="283" tvh-tags="",Îã§Î¨∏ÌôîÌã∞Î∏åÏù¥
+rtp://233.18.158.13:5000
+#EXTINF:-1 tvg-id="215" tvg-logo="" tvh-chnum="284" tvh-tags="",WBSÏõêÏùåÎ∞©ÏÜ°
+rtp://233.18.158.11:5000
+#EXTINF:-1 tvg-id="225" tvg-logo="" tvh-chnum="285" tvh-tags="",ÎÇ¥Ïô∏Í≤ΩÏ†úTV
+rtp://233.18.158.12:5000
+#EXTINF:-1 tvg-id="41" tvg-logo="" tvh-chnum="" tvh-tags="",CJÏò§ÏáºÌïë ÌîåÎü¨Ïä§
+rtp://233.15.200.91:5000
+#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="302" tvh-tags="",EBSe
+rtp://233.13.231.218:5000
+#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="303" tvh-tags="",Kids1
+rtp://233.13.231.86:5000
+#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="304" tvh-tags="",YTN Life
+rtp://233.15.200.133:5000
+#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="305" tvh-tags="",Ïò¨Î†àTV Î¨¥ÎπÑ
+rtp://233.18.158.206:5000
+#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="306" tvh-tags="",ÌÜ°ÌÜ°Kids
+rtp://233.13.231.87:5000
+#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="307" tvh-tags="",Ìè¨Ïª§Ïä§ Î¨¥ÎπÑ
+rtp://233.18.158.159:5000
+#EXTINF:-1 tvg-id="" tvg-logo="" tvh-chnum="308" tvh-tags="",Ìè¨Ïª§Ïä§ ÌÇ§Ï¶à
+rtp://233.18.158.160:5000
+#EXTINF:-1,18 4K CH-1
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/8056.ts
+#EXTINF:-1,18 4K CH-2
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/8055.ts
+#EXTINF:-1,18 4K CH-3
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/8054.ts
+#EXTINF:-1,18 4K CH-4
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/8053.ts
+#EXTINF:-1,18 4K CH-5
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/8052.ts
+#EXTINF:-1,18 4K CH-6
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/8051.ts
+#EXTINF:-1,18 4K CH-7
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/7517.ts
+#EXTINF:-1,18 4K CH-8
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/7516.ts
+#EXTINF:-1,18 4K CH-9
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/7515.ts
+#EXTINF:-1,18 4K CH-10
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/7514.ts
+#EXTINF:-1,18 4K CH-12
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/7513.ts
+#EXTINF:-1,18 4K CH-13
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/7512.ts
+#EXTINF:-1,18 4K CH-14
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/7511.ts
+#EXTINF:-1,18 4K CH-15
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/7510.ts
+#EXTINF:-1,18 4K CH-16
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/7509.ts
+#EXTINF:-1,18 4K CH-17
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/7519.ts
+#EXTINF:-1,18 4K CH-18
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/7518.ts
+#EXTINF:-1,18 4K CH-19
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/5458.ts
+#EXTINF:-1,18 4K CH-20
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/5457.ts
+#EXTINF:-1,18 4K CH-21
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/5456.ts
+#EXTINF:-1,18 4K CH-22
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/5455.ts
+#EXTINF:-1,18 4K CH-23
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/5452.ts
+#EXTINF:-1,18 4K CH-24
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/5451.ts
+#EXTINF:-1,18 4K CH-25
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/5450.ts
+#EXTINF:-1,18 4K CH-26
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/5449.ts
+#EXTINF:-1,18 4K CH-28
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/5453.ts
+#EXTINF:-1,18 4K CH-29
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/7528.ts
+#EXTINF:-1,18 4K CH-30
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/7527.ts
+#EXTINF:-1,18 4K CH-31
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/7525.ts
+#EXTINF:-1,18 4K CH-32
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/7524.ts
+#EXTINF:-1,18 4K CH-33
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/7523.ts
+#EXTINF:-1,18 4K CH-34
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/7522.ts
+#EXTINF:-1,18 4K CH-35
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/7521.ts
+#EXTINF:-1,18 4K CH-36
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/7520.ts
+#EXTINF:-1,18 4K CH-37
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/7526.ts
+#EXTINF:-1,18 4K CH-38
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/134.ts
+#EXTINF:-1,18 4K CH-39
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/135.ts
+#EXTINF:-1,18 4K CH-40
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/136.ts
+#EXTINF:-1,18 4K CH-41
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/137.ts
+#EXTINF:-1,18 4K CH-42
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/138.ts
+#EXTINF:-1,18 4K CH-43
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/139.ts
+#EXTINF:-1,18 4K CH-44
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/140.ts
+#EXTINF:-1,18 4K CH-45
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/141.ts
+#EXTINF:-1,18 4K CH-46
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/142.ts
+#EXTINF:-1,18 4K CH-47
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/5454.ts
+#EXTINF:-1,18 4K CH-48
+http://149.202.208.25:5210/live/nT0uTn4Ye8/YdjdTlNAJn/594.ts
