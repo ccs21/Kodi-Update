@@ -26,7 +26,6 @@ echo "================================"
 sleep 3
 sudo cp -f ./IPTV.m3u /home/pi/
 sudo cp -f ./epg.xml /home/pi/
-sudo cp -f ./Update.sh /home/pi/
 sleep 1
 echo ""
 echo ""
@@ -51,7 +50,7 @@ echo "================================"
 echo "Reboot After 5s."
 echo "================================"
 sleep 5
-Clear
+clear
 echo ""
 echo ""
 echo ""
