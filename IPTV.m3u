@@ -3,10 +3,16 @@
 http://198.144.156.93:9083/live/CA42-live1/PJ/Yr/PJYrrds4bTe69nKCwA_MAQ==/live.m3u8
 #EXTINF:-1, KBS1(지상파/종편)
 http://199.21.149.42:9083/live/CA42-live1/4U/m7/4Um7jSUcj5yAeervICdrrA==/live.m3u8
+#EXTINF:-1, KBS1(지상파/종편)
+http://198.144.156.92:9083/live/CA42-live1/4U/m7/4Um7jSUcj5yAeervICdrrA==/live.m3u8
 #EXTINF:-1, KBS2(지상파/종편)
 http://199.21.149.43:9083/live/CA42-live1/cX/Iu/cXIuLIgTUuG1XxsBCHPF0A==/live.m3u8
 #EXTINF:-1, SBS(지상파/종편)
+http://198.144.156.93:9083/live/CA42-live1/Dw/Ck/DwCkM386I8UnkPlGBiC5kQ==/live.m3u8
+#EXTINF:-1, SBS(지상파/종편)
 http://211.220.195.200:1935/live/mp4:KnnTv.stream/playlist.m3u8
+#EXTINF:-1, SBS(지상파/종편)
+rtmp://smart.igtb.co.kr/live/stream.sdp
 #EXTINF:-1, EBS(지상파/종편)
 http://110.10.122.42:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8?time=1454375113788
 #EXTINF:-1, EBS2
@@ -22,7 +28,11 @@ http://1.214.67.28/vod/74601.m3u8
 #EXTINF:-1, 연합뉴스(지상파/종편)
 http://1.214.67.28/vod/73401.m3u8
 #EXTINF:-1, YTN(지상파/종편)
+ http://1.214.67.28/vod/69801.m3u8 
+#EXTINF:-1, YTN(지상파/종편)
 http://lgedge1.everyon.tv/lgetv1/phd1110/playlist.m3u8
+#EXTINF:-1, YTN(지상파/종편)
+http://198.144.156.92:9083/live/CA42-live1/Tu/Nx/TuNxYdUkERAD6nhUGxawww==/live.m3u8
 #EXTINF:-1, KBS 독도 라이브
 http://kbs-dokdo.gscdn.com/dokdo_800/_definst_/dokdo_800.stream/playlist.m3u8
 #EXTINF:-1, OBS(지상파/종편)
@@ -35,6 +45,8 @@ http://1.214.67.28/vod/71501.m3u8
 http://1.214.67.28/vod/80101.m3u8
 #EXTINF:-1, 롯데홈쇼핑
 http://edge2.everyon.tv:1935/etv2sb/phd707/HasBahCa.m3u8
+#EXTINF:-1, CJ오쇼핑
+http://111.118.21.79/etv1sb/phd1057/playlist.m3u8
 #EXTINF:-1, OGN(온게임넷)
 http://1.214.67.28/vod/68101.m3u8
 #EXTINF:-1, TVN
@@ -49,6 +61,10 @@ http://1.214.67.28/vod/67101.m3u8
 http://198.144.156.90:9083/live/CA42-live1/MU/qZ/MUqZhJj6d7AVaVoxVAVuog==/live.m3u8
 #EXTINF:-1, OCN(영화/시리즈)
 http://199.21.149.41:9083/live/CA42-live1/_K/D2/_KD2CBjorpv-WJINk2GPqg==/live.m3u8
+#EXTINF:-1, 에브리싱TV(영화)
+rtmp://edge1.everyon.tv/etv1sb/phd129
+#EXTINF:-1, 톰TV(개인영화방송)
+http://45.32.43.221/live/gsiynlxqrptekovjuhwfm/index.m3u8
 #EXTINF:-1, PLAYY웰메이드(영화)
 http://edge2.everyon.tv:1935/etv2sb/phd770/HasBahCa.m3u8
 #EXTINF:-1, PLAYY프리미엄(영화)
@@ -67,12 +83,14 @@ rtmp://edge1.everyon.tv/etv1/phd101
 http://123.108.164.71/etv2/phd847/playlist.m3u8
 #EXTINF:-1, CHING(드라마)
 rtmp://edge1.everyon.tv:1935/etv1sb/phd7
-#EXTINF:-1, 아시아N(아시아드라마)
-http://edge2.everyon.tv/etv2/phd433/HasBahCa.m3u8
 #EXTINF:-1, MBC뮤직
 http://1.214.67.28/vod/62401.m3u8
 #EXTINF:-1, Mnet(음악)
-ttp://1.214.67.28/vod/68704.m3u8
+http://1.214.67.28/vod/68704.m3u8
+#EXTINF:-1, Mnet(음악)
+http://1.214.67.28/vod/68701.m3u8
+#EXTINF:-1, Mnet(음악)
+http://199.21.149.41:9083/live/CA42-live1/Vp/Ob/VpObAKeinniCi6LuFRmkLA==/live.m3u8
 #EXTINF:-1, 아이넷 TV(성인가요)
 rtmp://edge2.everyon.tv/etv2sb/phd263
 #EXTINF:-1, 가요TV
@@ -81,8 +99,6 @@ http://main1.everyon.tv:1935/etv1/_definst_/phd273/playlist.m3u8
 http://1.214.67.28/vod/68801.m3u8
 #EXTINF:-1, SBS펀
 http://1.214.67.28/vod/61501.m3u8
-#EXTINF:-1, O tvN(오락)
-http://121.156.62.136:1935/chc09/s5.stream/playlist.m3u8
 #EXTINF:-1, MBCEVERYONE(연예)
 http://1.214.67.28/vod/62601.m3u8
 #EXTINF:-1, ETN (연예전문채널)
@@ -127,8 +143,14 @@ rtmp://123.108.164.71/etv2sb/phd863
 rtmp://edge1.everyon.tv/etv1/phd35
 #EXTINF:-1, TV IS
 http://111.118.21.79/etv1sb/phd551/playlist.m3u8
+#EXTINF:-1, FISHING(낚시)
+http://edge1.everyon.tv/etv1/phd269/playlist.m3u8
+#EXTINF:-1, FTV(낚시)
+http://198.144.156.90:9083/live/CA42-live1/hP/iC/hPiCmmU2K5OnpDuPFRdOIw==/live.m3u8
 #EXTINF:-1, FTV(낚시)
 rtmp://edge2.everyon.tv/etv2/phd12
+#EXTINF:-1, SKY트래블(여행)
+http://198.144.156.90:9083/live/CA42-live1/es/hU/eshUgLoukfy2UQQc95aGbQ==/live.m3u8
 #EXTINF:-1, 폴라리스(여행)
 http://edge2.everyon.tv:1935/etv2sb/phd14/HasBahCa.m3u8
 #EXTINF:-1, ONT(레저/다큐)
@@ -143,16 +165,20 @@ http://edge2.everyon.tv/etv2/phd77/HasBahCa.m3u8
 http://edge2.everyon.tv/etv2/phd1046/HasBahCa.m3u8
 #EXTINF:-1, SPOTV(스포츠)
 http://1.214.67.28/vod/66701.m3u8
-#EXTINF:-1, MBC스포츠2(스포츠)
-http://175.198.55.161:8871/EBS1_H
+#EXTINF:-1, SBS스포츠(스포츠)
+http://199.21.149.41:9083/live/CA42-live1/N5/Zi/N5ZiPBK3M6JnskdXwIWTXw==/live.m3u8
+#EXTINF:-1, KBSN스포츠(스포츠)
+http://198.144.156.90:9083/live/CA42-live1/Rz/Ga/RzGalXDnnV8LDXUD7vHHpg==/live.m3u8
+#EXTINF:-1, MBC스포츠(스포츠)
+http://198.144.156.90:9083/live/CA42-live1/1W/m_/1Wm_fJu5Ue28wtUhdENJ5w==/live.m3u8
+#EXTINF:-1, SKY스포츠(스포츠)
+http://198.144.156.90:9083/live/CA42-live1/iL/LR/iLLRnuqGuLQwgpV41PVLAg==/live.m3u8
 #EXTINF:-1, STN(축구)
 http://edge2.everyon.tv:1935/etv2sb/phd861/HasBahCa.m3u8
 #EXTINF:-1, M1글로벌(격투)
 rtmp://edge1.everyon.tv/etv1/phd1020
-#EXTINF:-1, SBS골프(스포츠)
-http://175.198.55.161:8871/SBSGOLF_H
 #EXTINF:-1, JTBC골프(스포츠)
-http://199.21.149.43:9083/live/CA42-live1/wE/Fq/wEFql88XpyKlYxu2FzAY-w==/live.m3u8
+http://198.144.156.93:9083/live/CA42-live1/wE/Fq/wEFql88XpyKlYxu2FzAY-w==/live.m3u8
 #EXTINF:-1, Billiards(스포츠)
 rtmp://edge1.everyon.tv:1935/etv1sb/phd191
 #EXTINF:-1, MANIA REPORT(스포츠)
@@ -177,6 +203,8 @@ http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 http://123.108.164.71/etv2/phd983/playlist.m3u8
 #EXTINF:-1, 애니 플러스(애니)
 http://1.214.67.28/vod/69901.m3u8
+#EXTINF:-1, 투니버스
+http://199.21.149.41:9083/live/CA42-live1/sp/mx/spmxS3T2NmewuswHgWjrdQ==/live.m3u8
 #EXTINF:-1, KIDS TV(어린이)
 http://123.108.164.71/etv2/phd1043/playlist.m3u8
 #EXTINF:-1, KIDS1(어린이)
@@ -187,8 +215,6 @@ rtmp://edge2.everyon.tv:80/etv2sb/phd42
 rtmp://edge1.everyon.tv/etv1sb/phd5
 #EXTINF:-1, 애니프렌즈(어린이)
 http://edge2.everyon.tv:1935/etv2sb/phd933/HasBahCa.m3u8
-#EXTINF:-1, JEI잉글리시(교육)
-http://175.198.55.161:8871/JEI_H
 #EXTINF:-1, 쉴라English DIAGRAM(영어)
 rtmp://edge1.everyon.tv:1935/etv1sb/phd1021
 #EXTINF:-1, CNN(영어)

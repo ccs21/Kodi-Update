@@ -725,4 +725,44 @@
     <display-name>캐치원</display-name>
     <icon src="http://epg.neo365.net/Images/Channels/290.png" />
   </channel>
+  <channel id="180">
+    <display-name>투니버스</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/202.png" />
+  </channel>
+  <channel id="181">
+    <display-name>MBC스포츠(스포츠)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/126.png" />
+  </channel>
+  <channel id="182">
+    <display-name>KBSN스포츠(스포츠)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/107.png" />
+  </channel>
+  <channel id="183">
+    <display-name>SBS스포츠(스포츠)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/169.png" />
+  </channel>
+  <channel id="184">
+    <display-name>CJ오쇼핑</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/40.png" />
+  </channel>
+  <channel id="185">
+    <display-name>SKY스포츠(스포츠)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/178.png" />
+  </channel>
+  <channel id="186">
+    <display-name>SKY트래블(여행)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/179.png" />
+  </channel>
+  <channel id="187">
+    <display-name>에브리싱TV(영화)</display-name>
+    <icon src="http://www.serena.ac.uk/wp-content/uploads/2013/03/FE_logo-300x95.png" />
+  </channel>
+  <channel id="188">
+    <display-name>톰TV(개인영화방송)</display-name>
+    <icon src="https://ncache.ilbe.com/files/attach/new/20150909/377678/60465151/6546309895/c97cd16fb20b71dac95f310e76da876d.jpg" />
+  </channel>
+  <channel id="189">
+    <display-name>FISHING(낚시)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/72.png" />
+  </channel>
 </tv>
