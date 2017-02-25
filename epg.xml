@@ -765,7 +765,6 @@
     <display-name>FISHING(낚시)</display-name>
     <icon src="http://epg.neo365.net/Images/Channels/72.png" />
   </channel>
-<<<<<<< HEAD
   <channel id="190">
     <display-name>KBS2드라마</display-name>
     <icon src="http://epg.neo365.net/Images/Channels/103.png" />
@@ -902,6 +901,4 @@
     <display-name>TRENDY TV(예능2)</display-name>
     <icon src="http://epg.neo365.net/Images/Channels/203.pn" />
   </channel>
-=======
->>>>>>> origin/master
 </tv>
