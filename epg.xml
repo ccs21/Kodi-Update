@@ -110,7 +110,7 @@
     <icon src="http://static.skylife.co.kr/upload/channel/201507/channel_logo_moviechoice.gif" />
   </channel>
   <channel id="27">
-    <display-name>드라마방송(드라마)</display-name>
+    <display-name>드라마방송1</display-name>
     <icon src="http://epg.neo365.net/Images/Channels/230.png" />
   </channel>
  <channel id="28">
@@ -186,7 +186,7 @@
     <icon src="http://epg.neo365.net/Images/Channels/62.png" />
   </channel>
   <channel id="46">
-    <display-name>OBS W(다큐)</display-name>
+    <display-name>OBS W</display-name>
     <icon src="http://epg.neo365.net/Images/Channels/150.png" />
   </channel>
   <channel id="47">
@@ -766,12 +766,12 @@
     <icon src="http://epg.neo365.net/Images/Channels/72.png" />
   </channel>
   <channel id="190">
-    <display-name>KBS2드라마</display-name>
+    <display-name>드라마방송2</display-name>
     <icon src="http://epg.neo365.net/Images/Channels/103.png" />
   </channel>
   <channel id="191">
     <display-name>MBC예체능</display-name>
-    <icon src="http://epg.neo365.net/Images/Channels/125.png" />
+    <icon src="http://epg.neo365.net/Images/Channels/230.png" />
   </channel>
   <channel id="192">
     <display-name>채널A 먹거리X파일</display-name>
@@ -899,6 +899,78 @@
   </channel>
   <channel id="223">
     <display-name>TRENDY TV(예능2)</display-name>
-    <icon src="http://epg.neo365.net/Images/Channels/203.pn" />
+    <icon src="http://epg.neo365.net/Images/Channels/203.png" />
+  </channel>
+  <channel id="224">
+    <display-name>JTBC2</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/99.png" />
+  </channel>
+  <channel id="225">
+    <display-name>JTBC3</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/100.png" />
+  </channel>
+  <channel id="226">
+    <display-name>ONT M</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/156.png" />
+  </channel>
+  <channel id="227">
+    <display-name>애니맥스(애니)</display-name>
+    <icon src="http://cdn32.sptndigital.com/sites/kr.animax/files/animax_korea_sony_network-black.png" />
+  </channel>
+  <channel id="228">
+    <display-name>비디오랜드(일본)</display-name>
+    <icon src="http://pimang.net/admin/data/push/62284145_1501.jpg" />
+  </channel>
+  <channel id="229">
+    <display-name>채널W(일본여행)</display-name>
+    <icon src="http://pimang.net/admin/data/push/62284145_1501.jpg" />
+  </channel>
+  <channel id="230">
+    <display-name>중화 TV</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/278.png" />
+  </channel>
+  <channel id="231">
+    <display-name>K스타</display-name>
+    <icon src="https://pbs.twimg.com/profile_images/598037549928480768/1ADCezPG_400x400.png" />
+  </channel>
+  <channel id="232">
+    <display-name>문화유산</display-name>
+    <icon src="http://www.k-heritage.tv/_static/heritage/kr/igm/common/logo.png" />
+  </channel>
+  <channel id="233">
+    <display-name>GTV</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/86.png" />
+  </channel>
+  <channel id="234">
+    <display-name>드라맥스</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/232.png" />
+  </channel>
+  <channel id="235">
+    <display-name>어린이동화</display-name>
+    <icon src="http://static.ebs.co.kr/images/bhp/tvtale/images/57F2F01CF52F4A4C9207DD3A8103B718_001.jpg" />
+  </channel>
+  <channel id="236">
+    <display-name>PLAYY테마(영화)</display-name>
+    <icon src="http://pimang.net/admin/data/push/28572323_8867.jpg" />
+  </channel>
+  <channel id="237">
+    <display-name>IB스포츠WWE</display-name>
+    <icon src="https://pbs.twimg.com/profile_images/603780735422464000/XUmf0snU_400x400.png" />
+  </channel>
+  <channel id="238">
+    <display-name>CCTV체육</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/2000px-CCTV.svg.png" />
+  </channel>
+  <channel id="239">
+    <display-name>SPOTV2</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/186.png" />
+  </channel>
+  <channel id="240">
+    <display-name>SPOTV+UFC</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/185.png" />
+  </channel>
+  <channel id="241">
+    <display-name>SPOTV(게임)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/184.png" />
   </channel>
 </tv>
